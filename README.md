@@ -1,2 +1,1 @@
-# AI_medical_scriber
-ai_medical_scriber_expert-main
+# ai_medical_scriber_expert

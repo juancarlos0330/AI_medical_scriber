@@ -1,0 +1,116 @@
+pyinstaller --onefile --windowed --icon=favicon.ico query.py
+
+
+user_content = user_content + """Follow this template for consistency:
+
+
+            Patient Name: [patient's full name, if doesn't exist, then 'not provided']
+            Doctor Name: [doctor's full name, if doesn't exist, then 'not provided']
+            Collaborator: [full name of the main collaborator, if doesn't exist, then 'not provided']
+            Date of Visit: [MM/DD/YYYY, if doesn't exist, then 'not provided']
+            Medical Facility: [name of the medical facility, if doesn't exist, then 'not provided']
+            Main Service Provided: [most specific service provided, if doesn't exist, then 'not provided']
+            Signed Off By: [name of the person who signed off on the service, if doesn't exist, then 'not provided']
+            Sign-off Date: [MM/DD/YYYY, if doesn't exist, then 'not provided']
+            Summary: [brief summary of the services provided organized by these sections.
+                reviewed radiology report: [if doesn't exist, then do not provide]
+                physical examination: [if doesn't exist, then do not provide]
+                assesment: [if doesn't exist, then do not provide]
+                plan: [if doesn't exist, then do not provide]
+                date of accident: [if doesn't exist, then do not provide]
+                history of injury: [if doesn't exist, then do not provide]
+                history of present illness: [if doesn't exist, then do not provide]
+                discussion/plan: [if doesn't exist, then do not provide]
+                impression: [if doesn't exist, then do not provide]
+                findings: [if doesn't exist, then don't provide]
+            ]
+            The summary should be succinct and informative, capturing the essence of the visit without extraneous details.
+            Make sure that all information respects the context and content of the document and that information from each visit is clearly separated and unrelated.
+            <example>
+            [
+                {
+                    "Patient Name": "Claudia Lorena Barrera Roque",
+                    "Doctor Name": "Tooraj Gravori MD, FACS",
+                    "Collaborator": "not provided",
+                    "Date of Visit": "06/24/2021",
+                    "Medical Facility": "ProMed Spine",
+                    "Main Service Provided": "Initial Comprehensive Neurosurgical Consultation",
+                    "Signed Off By": "Tooraj Gravori MD, FACS",
+                    "Sign-off Date": "06/24/2021",
+                    "Summary": {
+                        "date of accident": "04/23/2019",
+                        "history of injury": "The patient was involved in a motor vehicle accident.",
+                        "history of present illness": "Following the accident, the patient reports suffering from neck pain, midback pain and low back pain. She has been undergoing evaluation and treatment since that time that include chiropractic maneuvers, physical therapy, massage therapy and medical pain management.",
+                        "physical examination": "This is a Telemedicine consultation.",
+                        "assesment": "Neck pain, Thoracic back pain, Lumbar back pain",
+                        "plan": "The patient will come to the office for an in-person evaluation and physical examination to assess and provide her with appropriate treatment options available to her. Follow up in 1 week with MRI of the Cervical, Thoracic, and Lumbar Spine in addition to flexion-extension x-ray of the Cervical and Lumbar Spine."
+                    }
+                }
+            ]
+            </example>
+        """
+
+
+
+            """Please analyze the provided medical document and extract essential information for each patient visit. Present the extracted information in a structured list format for each visit, using the '//////////' as a separate header. Instead, include the date of the visit as one of the listed details. Each visit's information should be clear, concise, and organized without unnecessary descriptions or symbols. Follow this template for consistency:
+                        Patient Name: [patient's full name]
+                        Doctor Name: [doctor's full name]
+                        Date of Visit: MM/DD/YYYY
+                        Medical Facility: [name of the medical facility]
+                        Main Service Provided: [most specific service provided]
+                        Signed Off By: [name of the person who signed off on the service]
+                        Sign-off Date: MM/DD/YYYY
+                        Summary: [  Please summarize this medical record for an ER visit including the patient's complaints, any imaging or test results, current medication, and the medical decision-making by the attending physician.
+
+                                    Date of injury and mechanism and cure content:
+
+                                    Primary symptoms and affected body regions:
+
+                                    Key physical exam findings:
+
+                                    Mental health screening results:
+
+                                    Diagnoses/assessment:
+
+                                    "Current Medication": [
+                                            {
+                                                "medicationName": "<Medication Name>",
+                                                "dosage": "<Dosage>",
+                                                "prescribedFor": "<Condition or Reason>"
+                                            },
+                                            ...
+                                        ]
+
+                                    Treatment plan and recommendations: give us more specific info. for example, it say how much of the medication the patient should take
+
+                                    Follow up timeframe:
+
+                                    And also, display other all tags like  Reviewed Radiology Report, Medical Decision Making and Mental/Functional and so on and its specific contents like how much of the medicine the patient taked.
+
+                                    Please do not include any information that is not explicitly stated in the provided medical records.]
+
+                         The result must be the following style including "[" and "{".
+                            <example>
+                            [
+                                {
+                                    "Patient Name": "Claudia Lorena Barrera Roque",
+                                    "Doctor Name": "Tooraj Gravori MD, FACS",
+                                    "Collaborator": "not provided",
+                                    "Date of Visit": "06/24/2021",
+                                    "Medical Facility": "ProMed Spine",
+                                    "Main Service Provided": "Initial Comprehensive Neurosurgical Consultation",
+                                    "Signed Off By": "Tooraj Gravori MD, FACS",
+                                    "Sign-off Date": "06/24/2021",
+                                    "Summary": {
+                                        ...
+                                    }
+                                }
+                            ]
+                            </example>"""
+
+
+
+
+
+
+                            

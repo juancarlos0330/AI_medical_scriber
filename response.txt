@@ -1,0 +1,2011 @@
+﻿Here are the structured visit details for Julian Delgado:
+
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "Elmostafa Elkhiar, D.C.",
+        "Collaborator Name": "",
+        "Date of Visit": "04/27/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Initial chiropractic evaluation",
+        "Signed Off By": "Elmostafa Elkhiar, D.C.",
+        "Sign-off Date": "08/07/2020",
+        "Summary": {
+            "Date of injury and mechanism and cure content": "Personal injury at Stater Bros. Markets on 04/25/2020. Patient was getting a cart when an employee pushing carts struck him from behind.",
+            "History of illness": "Pain began immediately following the accident. No prior medical treatment for this injury.",
+            "Key physical exam findings": "Severe tenderness and myospasm of thoracic paraspinal muscles at T4-T8. Moderate to severe tenderness of lumbar spinous processes at L1-L4 and paraspinal muscles. Restricted lumbar ROM with pain. Positive straight leg raise at 20 degrees bilaterally.",
+            "Diagnoses/assessment": "1. Nervousness 2. Myalgia 3. Thoracic segmental dysfunction 4. Thoracic pain 5. Lumbar segmental dysfunction 6. Lumbago 7. Lumbar radiculopathy 8. Sleep disorder",
+            "Treatment plan and recommendations": "Chiropractic manipulation/adjustment and soft tissue physiotherapy 3x/week. Medical/pain management consult. X-rays and MRI of lumbar spine. Re-evaluate in 4 weeks.",
+            "Follow up timeframe": "4 weeks"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado", 
+        "Doctor Name": "Elmostafa Elkhiar, D.C.",
+        "Collaborator Name": "",
+        "Date of Visit": "05/19/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Chiropractic follow-up",
+        "Signed Off By": "Elmostafa Elkhiar, D.C.", 
+        "Sign-off Date": "08/07/2020",
+        "Summary": {
+            "History of illness": "Frequent moderate pain in mid and lower back with radiation down left leg.",
+            "Key physical exam findings": "Tenderness of thoracic paraspinals at T4-T8. Positive Soto-Hall test. Restricted thoracic ROM with improvement. Tenderness of lumbar paraspinals at L1-L5. Positive Kemp's and straight leg raise tests. Restricted lumbar ROM with improvement.",
+            "Treatment plan and recommendations": "Continue conservative treatment 3x/week for 4 weeks. Obtain lumbar MRI. Provided home exercise instructions."
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "Elmostafa Elkhiar, D.C.",
+        "Collaborator Name": "Mohammed Naji, M.D.",
+        "Date of Visit": "06/22/2020", 
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Chiropractic follow-up",
+        "Signed Off By": "Elmostafa Elkhiar, D.C.",
+        "Sign-off Date": "08/07/2020",
+        "Summary": {
+            "History of illness": "Occasional to frequent mild to moderate mid and low back pain with radiation down left leg.",
+            "Key physical exam findings": "Tenderness of thoracic paraspinals at T4-T8. Positive Soto-Hall test. Restricted thoracic ROM with improvement. Tenderness of lumbar paraspinals at L1-L5. Positive Kemp's and straight leg raise tests. Restricted lumbar ROM with improvement.",  
+            "Reviewed Radiology Report": "MRI lumbar spine (05/19/2020): L5-S1 left eccentric disc protrusion 5mm with annular fissure. L3-L4 1mm disc bulge. L4-L5 2mm disc bulge. Lumbar lordosis straightening, possibly from muscle spasm.",
+            "Treatment plan and recommendations": "Continue conservative treatment 1-2x/week for 3 weeks. Follow up with pain management."
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "Mohammed Naji, M.D.",
+        "Collaborator Name": "",
+        "Date of Visit": "06/01/2020",
+        "Medical Facility": "",
+        "Main Service Provided": "Pain management evaluation",
+        "Signed Off By": "Mohammed Naji, M.D.",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "Lumbar disc disease with radiculopathy - per MRI 05/19/2020",
+            "Current Medication": "Ibuprofen 600mg, Flexeril 10mg for pain and muscle spasm",  
+            "Treatment plan and recommendations": "Continue conservative treatment. Return for epidural injection if pain worsens or persists. Cost is $11,100 for series of 3 at $3,700 each. Arrange transportation if undergoing injection. Return for re-evaluation as needed."
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado", 
+        "Doctor Name": "Mohammed Naji, M.D.",
+        "Collaborator Name": "",
+        "Date of Visit": "07/14/2020",
+        "Medical Facility": "",
+        "Main Service Provided": "Lumbar epidural steroid injection",
+        "Signed Off By": "Mohammed Naji, M.D.",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "Lumbar disc disease, radiculopathy and myospasm",
+            "Procedure Notes Summary": "Lumbar epidural steroid injection without fluoroscopy at L4-L5. Kenalog 40mg and 2mL 1% lidocaine injected. No complications.",
+            "Treatment plan and recommendations": "Return in 4-6 weeks for repeat injection #2 of 3. Post-procedure instructions reviewed with patient."
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "Elmostafa Elkhiar, D.C.",
+        "Collaborator Name": "",
+        "Date of Visit": "08/03/2020",
+        "Medical Facility": "Elkhiar Chiropractic", 
+        "Main Service Provided": "Final chiropractic evaluation",
+        "Signed Off By": "Elmostafa Elkhiar, D.C.",
+        "Sign-off Date": "08/07/2020",
+        "Summary": {
+            "History of illness": "Occasional mild low back pain radiating down left leg.",
+            "Key physical exam findings": "Tenderness of lumbar paraspinals at L1-L5. Restricted lumbar ROM with improvement.",
+            "Diagnoses/assessment": "Patient reached maximal medical improvement through conservative treatment.",
+            "Treatment plan and recommendations": "Discharged from care with residual symptoms. Follow up with pain management or spine surgeon if symptoms persist or worsen.",
+            "Causation": "Based on assessment, the injuries were sustained as a result of the personal injury on 04/25/2020.",
+            "Prognosis": "Accident can predispose patient to further periodical aggravation. Prognosis is guarded.",
+            "Future Medical Care": "Settlement should allow for future physiotherapy, chiropractic care, pain management, and surgical follow-up as needed."
+        }
+    }
+]
+2020.08.07 Narrative Chiro Rept (includes rept of 04.27 _ 08.03).txtHere are the structured visit summaries extracted from the medical document:
+
+[
+    {
+        "Patient Name": "JULIAN DELGADO",
+        "Doctor Name": "David Ramin, M.D.",
+        "Collaborator Name": "",
+        "Date of Visit": "02/15/2018",
+        "Medical Facility": "",
+        "Main Service Provided": "OFFICE CONSULTATION",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Procedures Performed": "Office consultation, special reports or forms, electrocardiogram, blood oxygen level measurement, thromboplastin time test, prothrombin time test, automated hemogram, comprehensive metabolic panel, urinalysis, blood draw, respiratory flow volume loop", 
+            "Diagnosis Codes": "Z01818, 201818"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "JULIAN DELGADO",
+        "Doctor Name": "David Ramin, M.D.", 
+        "Collaborator Name": "",
+        "Date of Visit": "08/18/2020",
+        "Medical Facility": "",
+        "Main Service Provided": "OFFICE CONSULTATION",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Procedures Performed": "Prolonged service office visit, office consultation, electrocardiogram, blood oxygen level measurement, special reports or forms, blood draw, urinalysis, thromboplastin time test, prothrombin time test, comprehensive metabolic panel, automated hemogram",
+            "Diagnosis Codes": "Z01818, 201818"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "JULIAN DELGADO",
+        "Doctor Name": "David Ramin, M.D.",
+        "Collaborator Name": "",
+        "Date of Visit": "08/25/2020",
+        "Medical Facility": "",
+        "Main Service Provided": "INITIAL HOSPITAL CARE", 
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Procedures Performed": "Initial hospital care, special reports or forms, prolonged inpatient service",
+            "Diagnosis Codes": "M54!, M545"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "JULIAN DELGADO",
+        "Doctor Name": "David Ramin, M.D.",
+        "Collaborator Name": "",
+        "Date of Visit": "08/26/2020",
+        "Medical Facility": "",
+        "Main Service Provided": "SUBSEQUENT HOSPITAL CARE",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Procedures Performed": "Subsequent hospital care, special reports or forms, prolonged inpatient service",
+            "Diagnosis Codes": "M545"
+        }
+    }
+]
+2018.02.15-2020.08.26 Bills.txtHere is the extracted information for each patient visit, presented in a structured list format:
+
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "04/27/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Initial Evaluation",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "R45.0, M79.1, M99.02, M54.6, M99.03, M54.5, M54.16, G47.9",
+            "Treatment plan and recommendations": "Mechanical traction, myofascial release, chiropractic manipulation 1-2 regions"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "04/29/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Mechanical Traction",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "R45.0, M79.1, M99.02, M54.6, M99.03, M54.5, M54.16, G47.9",
+            "Treatment plan and recommendations": "Mechanical traction"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "04/30/2020", 
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Chiropractic Manipulation",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "R45.0, M79.1, M99.02, M54.6, M99.03, M54.5, M54.16, G47.9",
+            "Treatment plan and recommendations": "Mechanical traction, myofascial release, chiropractic manipulation 1-2 regions"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "05/01/2020",
+        "Medical Facility": "Elkhiar Chiropractic", 
+        "Main Service Provided": "Mechanical Traction",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "R45.0, M79.1, M99.02, M54.6, M99.03, M54.5, M54.16, G47.9",
+            "Treatment plan and recommendations": "Mechanical traction"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "05/04/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Chiropractic Manipulation",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "R45.0, M79.1, M99.02, M54.6, M99.03, M54.5, M54.16, G47.9",
+            "Treatment plan and recommendations": "Mechanical traction, myofascial release, chiropractic manipulation 1-2 regions"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "05/05/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Chiropractic Manipulation",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "R45.0, M79.1, M99.02, M54.6, M99.03, M54.5, M54.16, G47.9",
+            "Treatment plan and recommendations": "Mechanical traction, myofascial release, chiropractic manipulation 1-2 regions"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "05/06/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Chiropractic Manipulation",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "R45.0, M79.1, M99.02, M54.6, M99.03, M54.5, M54.16, G47.9",
+            "Treatment plan and recommendations": "Mechanical traction, myofascial release, chiropractic manipulation 1-2 regions"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "05/08/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Mechanical Traction",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "R45.0, M79.1, M99.02, M54.6, M99.03, M54.5, M54.16, G47.9",
+            "Treatment plan and recommendations": "Mechanical traction"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "05/11/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Chiropractic Manipulation",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "R45.0, M79.1, M99.02, M54.6, M99.03, M54.5, M54.16, G47.9",
+            "Treatment plan and recommendations": "Mechanical traction, myofascial release, chiropractic manipulation 1-2 regions"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "05/13/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Mechanical Traction",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "R45.0, M79.1, M99.02, M54.6, M99.03, M54.5, M54.16, G47.9",
+            "Treatment plan and recommendations": "Mechanical traction"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "05/14/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Chiropractic Manipulation",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "R45.0, M79.1, M99.02, M54.6, M99.03, M54.5, M54.16, G47.9",
+            "Treatment plan and recommendations": "Mechanical traction, myofascial release, chiropractic manipulation 1-2 regions"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "05/19/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Re-evaluation and Chiropractic Manipulation",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "R45.0, M79.1, M99.02, M54.6, M99.03, M54.5, M54.16, G47.9",
+            "Treatment plan and recommendations": "Re-evaluation, mechanical traction, myofascial release, chiropractic manipulation 1-2 regions"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "05/20/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Chiropractic Manipulation",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "R45.0, M79.1, M99.02, M54.6, M99.03, M54.5, M54.16, G47.9",
+            "Treatment plan and recommendations": "Mechanical traction, myofascial release, chiropractic manipulation 1-2 regions"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "05/21/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Chiropractic Manipulation",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "R45.0, M79.1, M99.02, M54.6, M99.03, M54.5, M54.16, G47.9",
+            "Treatment plan and recommendations": "Mechanical traction, chiropractic manipulation 1-2 regions"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "05/22/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Chiropractic Manipulation",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "R45.0, M79.1, M99.02, M54.6, M99.03, M54.5, M54.16, G47.9",
+            "Treatment plan and recommendations": "Mechanical traction, myofascial release, chiropractic manipulation 1-2 regions"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "05/27/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Chiropractic Manipulation",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "R45.0, M79.1, M99.02, M54.6, M99.03, M54.5, M54.16, G47.9",
+            "Treatment plan and recommendations": "Mechanical traction, electrotherapy, myofascial release, chiropractic manipulation 1-2 regions"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "05/28/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Mechanical Traction and Electrotherapy",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "R45.0, M79.1, M99.02, M54.6, M99.03, M54.5, M54.16, G47.9",
+            "Treatment plan and recommendations": "Mechanical traction, electrotherapy"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "06/04/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Chiropractic Manipulation",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "R45.0, M79.1, M99.02, M54.6, M99.03, M54.5, M54.16, G47.9",
+            "Treatment plan and recommendations": "Mechanical traction, electrotherapy, myofascial release, chiropractic manipulation 1-2 regions"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "06/08/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Mechanical Traction and Electrotherapy",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "R45.0, M79.1, M99.02, M54.6, M99.03, M54.5, M54.16, G47.9",
+            "Treatment plan and recommendations": "Mechanical traction, electrotherapy"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "06/09/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Chiropractic Manipulation",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "R45.0, M79.1, M99.02, M54.6, M99.03, M54.5, M54.16, G47.9",
+            "Treatment plan and recommendations": "Mechanical traction, electrotherapy, myofascial release, chiropractic manipulation 1-2 regions"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "06/11/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Mechanical Traction and Electrotherapy",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "R45.0, M79.1, M99.02, M54.6, M99.03, M54.5
+2020.04.27-2020.08.03 Bills.txt[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "Fardad Mobin",
+        "Collaborator Name": "",
+        "Date of Visit": "06/16/2020",
+        "Medical Facility": "Fardad Mobin, MD",
+        "Main Service Provided": "Office Visit, High Complexity",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Current Medication": "",
+            "Diagnoses/assessment": "",
+            "Treatment plan and recommendations": "Record review performed"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado", 
+        "Doctor Name": "Fardad Mobin",
+        "Collaborator Name": "",
+        "Date of Visit": "08/18/2020",
+        "Medical Facility": "Fardad Mobin, MD",
+        "Main Service Provided": "Office Follow-UP",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Current Medication": "",
+            "Diagnoses/assessment": "",
+            "Treatment plan and recommendations": "Record review performed"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "Fardad Mobin", 
+        "Collaborator Name": "",
+        "Date of Visit": "08/24/2020",
+        "Medical Facility": "Fardad Mobin, MD",
+        "Main Service Provided": "Arthrodesis posterior or posterolateral, Laminectomy- Lumbar, Posterior Instrumentation 3 to 6 seg.",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Current Medication": "",
+            "Diagnoses/assessment": "",
+            "Treatment plan and recommendations": "Arthrodesis posterior or posterolateral, Laminectomy- Lumbar, Posterior Instrumentation 3 to 6 segments performed. Fat graft, autograft, fluoroscopy, and allowgraft morselized also used during the surgery."
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "Fardad Mobin",
+        "Collaborator Name": "",
+        "Date of Visit": "09/09/2020",
+        "Medical Facility": "Fardad Mobin, MD", 
+        "Main Service Provided": "Office Follow-UP",
+        "Signed Off By": "",
+        "Sign-off Date": "",
+        "Summary": {
+            "Current Medication": "",
+            "Diagnoses/assessment": "",
+            "Treatment plan and recommendations": ""
+        }
+    }
+]
+2020.06.16-2020.09.09 Bills.txtHere is the structured information for each visit, separated by '//////////' headers:
+
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "Elmostafa Elkhiar, D.C.",
+        "Collaborator Name": "",
+        "Date of Visit": "04/27/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Initial Chiropractic Evaluation",
+        "Signed Off By": "Elmostafa Elkhiar, D.C.",
+        "Sign-off Date": "08/07/2020",
+        "Summary": {
+            "Date of injury and mechanism and cure content": "The patient was involved in a personal injury at Stater Bros, Markets on April 25, 2020. He was getting a cart from the cart storage area when an employee pushing a full line of carts struck the patient from behind. His pain began immediately following the accident.",
+            "History of illness": "The patient's chief complaints at the initial evaluation included severe constant nervousness, severe mid back pain, severe lower back pain radiating down the bilateral legs with numbness, and sleep disturbance due to pain.",
+            "Key physical exam findings": "Thoracic spine examination revealed severe tenderness and myospasm of the paraspinal musculature at T4-T8 level bilaterally. Lumbosacral spine examination showed moderate to severe tenderness over L1-L4 spinous processes and paraspinal musculature with myospasm. There was antalgic positioning and restricted range of motion with pain. Straight leg raise test was positive bilaterally at 20 degrees.",
+            "Diagnoses/assessment": "Nervousness, myalgia, thoracic segmental dysfunction, thoracic pain, lumbar segmental dysfunction, lumbago, lumbar radiculopathy, sleep disorder.",
+            "Treatment plan and recommendations": "A course of conservative chiropractic manipulation/adjustment and physiotherapy treatments was recommended 3 times per week. Medical/pain management consultation, lumbar x-rays and MRI were also recommended. Goal was to strengthen muscles, restore range of motion, and decrease pain. Patient advised to avoid strenuous activities."
+        }
+    }
+]
+
+//////////
+
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "Elmostafa Elkhiar, D.C.",
+        "Collaborator Name": "",
+        "Date of Visit": "05/19/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Chiropractic Re-evaluation",
+        "Signed Off By": "Elmostafa Elkhiar, D.C.",
+        "Sign-off Date": "08/07/2020",
+        "Summary": {
+            "History of illness": "The patient complained of frequent moderate pain in the mid back and lower back with pain radiating down the left leg.",
+            "Key physical exam findings": "Thoracic spine examination revealed tenderness of paraspinal musculature at T4-T8 level bilaterally. Soto-Hall test was positive. Range of motion was restricted with improvement. Lumbar spine examination showed tenderness of paraspinal musculature at L1-L5 level bilaterally. Kemp's test and straight leg raise tests were positive bilaterally. Lumbar range of motion was restricted with improvement.",
+            "Treatment plan and recommendations": "The patient was recommended to continue conservative treatment 3 times per week for 4 weeks. A lumbar MRI was recommended. Patient was given home exercise instructions."
+        }
+    }
+]
+
+//////////
+
+[
+    {
+        "Patient Name": "Julian Delgado", 
+        "Doctor Name": "Elmostafa Elkhiar, D.C.",
+        "Collaborator Name": "Mohammed Naji, M.D.",
+        "Date of Visit": "06/01/2020",
+        "Medical Facility": "",
+        "Main Service Provided": "Pain Management Evaluation",
+        "Signed Off By": "Mohammed Naji, M.D.",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "Lumbar disc disease with radiculopathy - per MRI 05-19-2020.",
+            "Treatment plan and recommendations": "Continue conservative treatment. Prescribed Ibuprofen 600 mg and Flexeril 10 mg for pain and muscle spasm. If pain persists, epidural injection of lumbar spine recommended at a cost of $11,100 for series of 3 injections. Patient advised to return for re-evaluation as needed."
+        }
+    }
+]
+
+//////////
+
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "Elmostafa Elkhiar, D.C.", 
+        "Collaborator Name": "",
+        "Date of Visit": "06/22/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Chiropractic Re-evaluation",
+        "Signed Off By": "Elmostafa Elkhiar, D.C.",
+        "Sign-off Date": "08/07/2020",
+        "Summary": {
+            "History of illness": "The patient complained of occasional to frequent mild to moderate pain in the mid back and lower back with pain radiating down the left leg.",
+            "Key physical exam findings": "Thoracic spine examination revealed tenderness of paraspinal musculature at T4-T8 level bilaterally. Soto-Hall test was positive. Range of motion was restricted with improvement. Lumbar spine examination showed tenderness of paraspinal musculature at L1-L5 level bilaterally. Kemp's test and straight leg raise tests were positive bilaterally. Lumbar range of motion was restricted with improvement.",
+            "Treatment plan and recommendations": "The patient was recommended to continue conservative treatment 1-2 times per week for 3 weeks. Follow-up with pain management was recommended."
+        }
+    }
+]
+
+//////////
+
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "Mohammed Naji, M.D.",
+        "Collaborator Name": "",
+        "Date of Visit": "07/14/2020",
+        "Medical Facility": "",
+        "Main Service Provided": "Pain Management Procedure - Lumbar Epidural Steroid Injection",
+        "Signed Off By": "Mohammed Naji, M.D.",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "Lumbar disc disease, radiculopathy and myospasm.",
+            "Procedure Notes Summary": "Lumbar spine epidural steroid injection without fluoroscopy was performed at L4-5 level. Kenalog 40 mg and 2 mL of 1% Lidocaine were injected. Patient achieved mild numbness and warm feeling in lower extremities. Procedure completed without complications.",
+            "Treatment plan and recommendations": "Return to clinic in 4-6 weeks for repeat injection #2 out of 3. Post procedure instructions reviewed with patient."
+        }
+    }
+]
+
+//////////
+
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "Elmostafa Elkhiar, D.C.",
+        "Collaborator Name": "",
+        "Date of Visit": "08/03/2020",
+        "Medical Facility": "Elkhiar Chiropractic",
+        "Main Service Provided": "Final Chiropractic Evaluation",
+        "Signed Off By": "Elmostafa Elkhiar, D.C.",
+        "Sign-off Date": "08/07/2020",
+        "Summary": {
+            "History of illness": "The patient complained of occasional mild lower back pain radiating down the left leg.",
+            "Key physical exam findings": "Lumbar spine examination revealed tenderness of paraspinal musculature at L1-L5 level bilaterally. Range of motion was restricted with improvement.",
+            "Treatment plan and recommendations": "It was determined the patient reached maximal medical improvement through conservative treatment. He was discharged with residual symptomatology. If pain persists or worsens, follow-up with pain management or spine surgeon is recommended."
+        }
+    }
+]
+2020.08.07 Narrative Chiro Rept (includes rept of 04.27 _ 08.03).txtHere are the structured visit summaries for Julian Delgado:
+
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "David Ramin, MD",
+        "Collaborator Name": "",
+        "Date of Visit": "08/18/2020",
+        "Medical Facility": "David Ramin, MD. APMC",
+        "Main Service Provided": "Preoperative examination",
+        "Signed Off By": "David Ramin, MD",
+        "Sign-off Date": "08/18/2020",
+        "Summary": {
+            "Key physical exam findings": "Vitals: BP 140/93, Pulse 74, Resp 16, SpO2 98%, Weight 90.7 kg (200 lb), Height 1.753 m (5' 9")",
+            "Diagnoses/assessment": "Preop examination [Z01.818]",
+            "Treatment plan and recommendations": "ECG and pulse oximetry performed. Labs ordered including CBC, CMP, PT, PTT, urinalysis. COVID-19 PCR test ordered."
+        }
+    }
+]
+2020.08.18 Repts.txt[
+  {
+    "Patient Name": "JULIAN DELGADO",
+    "Doctor Name": "David Ramin, M.D.",
+    "Collaborator Name": "",
+    "Date of Visit": "08/18/2020",
+    "Medical Facility": "",
+    "Main Service Provided": "OFFICE CONSULTATION",
+    "Signed Off By": "",
+    "Sign-off Date": "",
+    "Summary": {
+      "Services Provided": [
+        "PROLONGED SERVICE, OFFICE",
+        "OFFICE CONSULTATION", 
+        "ELECTROCARDIOGRAM, COMPLETE",
+        "MEASURE BLOOD OXYGEN LEVEL",
+        "SPECIAL REPORTS OR FORMS",
+        "DRAWING BLOOD",
+        "URINALYSIS, NONAUTO, W/SCOPE", 
+        "THROMBOPLASTIN TIME, PARTIAL",
+        "PROTHROMBIN TIME",
+        "COMPREHENSIVE METABOLIC PANEL",
+        "AUTOMATED HEMOGRAM"
+      ],
+      "Diagnosis Codes": [
+        "Z01818",
+        "Z0181"  
+      ],
+      "Total Charges": "3185.00"
+    }
+  }
+]
+//////////
+[
+  {
+    "Patient Name": "JULIAN DELGADO",
+    "Doctor Name": "David Ramin, M.D.", 
+    "Collaborator Name": "",
+    "Date of Visit": "08/25/2020",
+    "Medical Facility": "",
+    "Main Service Provided": "INITIAL HOSPITAL CARE",
+    "Signed Off By": "",
+    "Sign-off Date": "",
+    "Summary": {
+      "Services Provided": [
+        "INITIAL HOSPITAL CARE",
+        "SPECIAL REPORTS OR FORMS",
+        "PROLONGED SERVICE, INPATIENT"
+      ],
+      "Diagnosis Codes": [
+        "M545"
+      ],
+      "Total Charges": "2060.00"
+    }
+  }
+]
+//////////
+[
+  {
+    "Patient Name": "JULIAN DELGADO",
+    "Doctor Name": "David Ramin, M.D.",
+    "Collaborator Name": "",
+    "Date of Visit": "08/26/2020",
+    "Medical Facility": "",
+    "Main Service Provided": "SUBSEQUENT HOSPITAL CARE",
+    "Signed Off By": "",
+    "Sign-off Date": "",
+    "Summary": {
+      "Services Provided": [
+        "SUBSEQUENT HOSPITAL CARE",
+        "SPECIAL REPORTS OR FORMS",
+        "PROLONGED SERVICE, INPATIENT"  
+      ],
+      "Diagnosis Codes": [
+        "M545"
+      ],
+      "Total Charges": "2060.00"
+    }
+  }
+]
+2020.08.18-2020.08.26 Bills.txt//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "09/21/2020",
+        "Medical Facility": "ALIED FIVE STAR CORPORATION",
+        "Main Service Provided": "INITIAL EVALUTION",
+        "Signed Off By": "",
+        "Sign-off Date": "01/07/2021",
+        "Summary": {
+            "Diagnoses/assessment": "Fusion of spine lumbar region",
+            "Treatment plan and recommendations": "97162 - INITIAL EVALUTION"
+        }
+    }
+]
+
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado", 
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "09/23/2020",
+        "Medical Facility": "ALIED FIVE STAR CORPORATION",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "",
+        "Sign-off Date": "01/07/2021",
+        "Summary": {
+            "Diagnoses/assessment": "Fusion of spine lumbar region",
+            "Treatment plan and recommendations": "97140 - SOFT TISSUES MANIPULATION, 97110 - THEREPEUTIC EXERCISES, 97530 - KINETIC ACTIVITIES, 97116 - GAIT TRAINNING, 97026 - INFRARED"
+        }
+    }
+]
+
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "", 
+        "Date of Visit": "09/28/2020",
+        "Medical Facility": "ALIED FIVE STAR CORPORATION",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "",
+        "Sign-off Date": "01/07/2021",
+        "Summary": {
+            "Diagnoses/assessment": "Fusion of spine lumbar region",
+            "Treatment plan and recommendations": "97140 - SOFT TISSUES MANIPULATION, 97110 - THEREPEUTIC EXERCISES, 97530 - KINETIC ACTIVITIES, 97116 - GAIT TRAINNING, 97026 - INFRARED"
+        }
+    }
+]
+
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "09/30/2020", 
+        "Medical Facility": "ALIED FIVE STAR CORPORATION",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "",
+        "Sign-off Date": "01/07/2021",
+        "Summary": {
+            "Diagnoses/assessment": "Fusion of spine lumbar region",
+            "Treatment plan and recommendations": "97140 - SOFT TISSUES MANIPULATION, 97110 - THEREPEUTIC EXERCISES, 97530 - KINETIC ACTIVITIES, 97116 - GAIT TRAINNING, 97026 - INFRARED"
+        }
+    }
+]
+
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "10/05/2020",
+        "Medical Facility": "ALIED FIVE STAR CORPORATION", 
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "",
+        "Sign-off Date": "01/07/2021",
+        "Summary": {
+            "Diagnoses/assessment": "Fusion of spine lumbar region",
+            "Treatment plan and recommendations": "97140 - SOFT TISSUES MANIPULATION, 97110 - THEREPEUTIC EXERCISES, 97530 - KINETIC ACTIVITIES, 97116 - GAIT TRAINNING, 97026 - INFRARED"
+        }
+    }
+]
+
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "10/07/2020",
+        "Medical Facility": "ALIED FIVE STAR CORPORATION",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "", 
+        "Sign-off Date": "01/07/2021",
+        "Summary": {
+            "Diagnoses/assessment": "Fusion of spine lumbar region",
+            "Treatment plan and recommendations": "97140 - SOFT TISSUES MANIPULATION, 97110 - THEREPEUTIC EXERCISES, 97530 - KINETIC ACTIVITIES, 97116 - GAIT TRAINNING, 97026 - INFRARED"
+        }
+    }
+]
+
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "10/12/2020",
+        "Medical Facility": "ALIED FIVE STAR CORPORATION",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "",
+        "Sign-off Date": "01/07/2021", 
+        "Summary": {
+            "Diagnoses/assessment": "Fusion of spine lumbar region",
+            "Treatment plan and recommendations": "97140 - SOFT TISSUES MANIPULATION, 97110 - THEREPEUTIC EXERCISES, 97530 - KINETIC ACTIVITIES, 97116 - GAIT TRAINNING, 97026 - INFRARED"
+        }
+    }
+]
+
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "10/19/2020",
+        "Medical Facility": "ALIED FIVE STAR CORPORATION",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "",
+        "Sign-off Date": "01/07/2021",
+        "Summary": {
+            "Diagnoses/assessment": "Fusion of spine lumbar region", 
+            "Treatment plan and recommendations": "97140 - SOFT TISSUES MANIPULATION, 97110 - THEREPEUTIC EXERCISES, 97530 - KINETIC ACTIVITIES, 97116 - GAIT TRAINNING, 97026 - INFRARED"
+        }
+    }
+]
+
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "10/28/2020",
+        "Medical Facility": "ALIED FIVE STAR CORPORATION",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "",
+        "Sign-off Date": "01/07/2021",
+        "Summary": {
+            "Diagnoses/assessment": "Fusion of spine lumbar region",
+            "Treatment plan and recommendations": "97140 - SOFT TISSUES MANIPULATION, 97110 - THEREPEUTIC EXERCISES, 97530 - KINETIC ACTIVITIES, 97116 - GAIT TRAINNING, 97026 - INFRARED"
+        }
+    }
+]
+
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado", 
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "11/02/2020",
+        "Medical Facility": "ALIED FIVE STAR CORPORATION",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "",
+        "Sign-off Date": "01/07/2021",
+        "Summary": {
+            "Diagnoses/assessment": "Fusion of spine lumbar region",
+            "Treatment plan and recommendations": "97140 - SOFT TISSUES MANIPULATION, 97110 - THEREPEUTIC EXERCISES, 97530 - KINETIC ACTIVITIES, 97116 - GAIT TRAINNING, 97026 - INFRARED"
+        }
+    }
+]
+
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "11/04/2020",
+        "Medical Facility": "ALIED FIVE STAR CORPORATION",
+        "Main Service Provided": "Physical Therapy", 
+        "Signed Off By": "",
+        "Sign-off Date": "01/07/2021",
+        "Summary": {
+            "Diagnoses/assessment": "Fusion of spine lumbar region",
+            "Treatment plan and recommendations": "97140 - SOFT TISSUES MANIPULATION, 97110 - THEREPEUTIC EXERCISES, 97530 - KINETIC ACTIVITIES, 97116 - GAIT TRAINNING, 97026 - INFRARED"
+        }
+    }
+]
+
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "11/09/2020",
+        "Medical Facility": "ALIED FIVE STAR CORPORATION",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "",
+        "Sign-off Date": "01/07/2021",
+        "Summary": {
+            "Diagnoses/assessment": "Fusion of spine lumbar region",
+            "Treatment plan and recommendations": "97140 - SOFT TISSUES MANIPULATION, 97110 - THEREPEUTIC EXERCISES, 97530 - KINETIC ACTIVITIES, 97116 - GAIT TRAINNING, 97026 - INFRARED, 97164 - RE EVALUATION"
+        }
+    }
+]
+2020.09.21-2020.11.09 Bills.txt[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "Simarin Hul PT",
+        "Collaborator Name": "",
+        "Date of Visit": "09/23/2020",
+        "Medical Facility": "ALLIED PHYSICAL THERAPY",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "Simarin Hul PT",
+        "Sign-off Date": "09/23/2020",
+        "Summary": {
+            "Date of injury and mechanism and cure content": "DOA: 4-25-20-205 8-22-201",
+            "Key physical exam findings": "Soft tissue mob, Balance training",
+            "Diagnoses/assessment": "Tenderness in the lumbar paraspinal muscles and erector spinae with weakness of the quadriceps and hamstring muscle",
+            "Treatment plan and recommendations": "To continue with treatment",
+            "Procedures": [
+                "Therapeutic Exercises",
+                "Hot / Cold Packs",
+                "Neuromuscular Reeducation",
+                "Functional Activities",
+                "Gait Training Balance"
+            ],
+            "Subjective statement of patient": "Patient states that the pain to the back is 4/10 - Still higher in the back"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "Simaga Ahmed PT",
+        "Collaborator Name": "",
+        "Date of Visit": "09/28/2020",
+        "Medical Facility": "ALLIED PHYSICAL THERAPY",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "Simaga Ahmed PT",
+        "Sign-off Date": "09/28/2020",
+        "Summary": {
+            "Key physical exam findings": "Balance training, Soft tissue mob + IR to LS",
+            "Diagnoses/assessment": "Weakness of the quadriceps and hamstring muscle, unsteady standing balance and gait",
+            "Treatment plan and recommendations": "To continue with treatment. Cont HEP.",
+            "Procedures": [
+                "Therapeutic Exercises",
+                "Hot / Cold Packs",
+                "Neuromuscular Reeducation",
+                "Functional Activities",
+                "Gait Training"
+            ],
+            "Subjective statement of patient": "Patient States pain to the back has been higher 4/10"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado", 
+        "Doctor Name": "Simaga Ahmed PT",
+        "Collaborator Name": "",
+        "Date of Visit": "09/30/2020",
+        "Medical Facility": "ALLIED PHYSICAL THERAPY",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "Simaga Ahmed PT",
+        "Sign-off Date": "09/30/2020",
+        "Summary": {
+            "Key physical exam findings": "PT given performed to the lumbar Spine-Proparbody",
+            "Diagnoses/assessment": "Muscle spasm of the latissimus dorsi muscle TTP very painful",
+            "Treatment plan and recommendations": "To continue with treatment",
+            "Procedures": [
+                "Therapeutic Exercises",
+                "Hot / Cold Packs",
+                "Neuromuscular Reeducation",
+                "Functional Activities",
+                "Gait Training"
+            ],
+            "Subjective statement of patient": "Patient States that pain is 7/10 with some stiffness to the back and arms"
+        }
+    }
+]
+2020.09.23-2020.09.30 Progress Notes.txt[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "Smarin Alul PT",
+        "Collaborator Name": "",
+        "Date of Visit": "10/05/2020",
+        "Medical Facility": "ALIED PHYSICAL THERAPY",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "Smarin Alul PT",
+        "Sign-off Date": "10/05/2020",
+        "Summary": {
+            "History of illness": "Patient states that exercises are causing pain to the lower back 6/10.",
+            "Key physical exam findings": "Balance training and therapeutic exercises performed to the lumbar spine. Exercises do make back sore.",
+            "Diagnoses/assessment": "Muscle spasms moderate prepared to the para vertebral muscles.",
+            "Treatment plan and recommendations": "To continue with treatment."
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado", 
+        "Doctor Name": "Savany Ahmed PT",
+        "Collaborator Name": "",
+        "Date of Visit": "10/07/2020",
+        "Medical Facility": "ALIED PHYSICAL THERAPY",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "Savany Ahmed PT",
+        "Sign-off Date": "10/07/2020",
+        "Summary": {
+            "History of illness": "Patient states he feels that exercises are helping. Pain to LS - 6/10.",
+            "Key physical exam findings": "PT given per protocol to lumbar spine - balance training and proper body mechanics.",
+            "Diagnoses/assessment": "Tight hamstring bilaterally. Back stabilization exercises attempted.",
+            "Treatment plan and recommendations": "To continue with treatment as able to tolerate the stabilization exercises."
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "Smarin Alul PT", 
+        "Collaborator Name": "",
+        "Date of Visit": "10/12/2020",
+        "Medical Facility": "ALIED PHYSICAL THERAPY",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "Smarin Alul PT",
+        "Sign-off Date": "10/12/2020",
+        "Summary": {
+            "History of illness": "Patient states that pain and stiffness persist, same bending extremes are uncomfortable 6/10.",
+            "Key physical exam findings": "Therapeutic and kinetic exercises, soft tissue mobilization, balance training and infrared performed to the lumbar spine.",
+            "Diagnoses/assessment": "Back pain and para vertebral muscle spasms moderate with certain exercises. Patient having difficulty when walking.",
+            "Treatment plan and recommendations": "To continue with treatment. The back chain exercises and back extension exercises with modification."
+        }
+    }
+]
+2020.10.05-2020.10.12 Progress Notes.txtHere are the structured visit summaries:
+
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "Sumay Ahmed",
+        "Date of Visit": "10/19/2020",
+        "Medical Facility": "Allied Physical Therapy",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "Sumay Ahmed",
+        "Sign-off Date": "10/19/2020",
+        "Summary": {
+            "Subjective statement of patient": "It states that some truis turing Side way is pampil some soverom low back &",
+            "Key physical exam findings": "big are weak when squally",
+            "Objective": "Patient has 9 ROM? YS ~ 450 -5°-Lit,mid knu Bil r. 25° Bil M.S.L/s-3/5 gmy - BLE - 3/5 grossly",  
+            "Treatment plan and recommendations": "PT given per grid to the back. To continue with treatment.",
+            "Home exercise program": "Cout HEP"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "Sumay Ahmed", 
+        "Date of Visit": "10/26/2020",
+        "Medical Facility": "Allied Physical Therapy",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "Sumay Ahmed",
+        "Sign-off Date": "10/26/2020",
+        "Summary": {
+            "Subjective statement of patient": "It starts pan en ters to the back st.",
+            "Key physical exam findings": "Back in able to do more mour Прочие тов+ (притом quadriceps + Hamstring muscle weakness maten unsteady standen Balance Minimed muscle spasms",
+            "Treatment plan and recommendations": "Therapeutic + Kietes Ers. Balance trang syr toys. To continue with treatment",
+            "Comment": "9 the law Saw parameterel mundo"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "Sumay Ahmed",
+        "Date of Visit": "11/03/2020",
+        "Medical Facility": "Allied Physical Therapy", 
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "Sumay Ahmed",
+        "Sign-off Date": "11/03/2020",
+        "Summary": {
+            "Subjective statement of patient": "Patient Status pama 8/10 today Prolung Sitting caux pour-Sau",
+            "Key physical exam findings": "Sback mmunobak atle panel back. No change mited in back notation + Balance träning",
+            "Treatment plan and recommendations": "Therapeutic + Kinetic Ens. Balance. To continue with treatment With Eenaan",
+            "Comment": "ask to tolerate bethet proby."
+        }
+    }
+]
+2020.10.19-2020.11.02 Progress Notes.txt[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "Sumanjit Ahmat",
+        "Collaborator Name": "",
+        "Date of Visit": "11/04/2020",
+        "Medical Facility": "Allied Physical Therapy",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "Sumanjit Ahmat",
+        "Sign-off Date": "11/04/2020", 
+        "Summary": {
+            "Procedures": "Therapeutic Exercises, Neuromuscular Reeducation, Functional Activities, Gait Training Balance, Kinetic Activities, Activities of Daily Living, Soft Tissues Manipulation, Individualized Instruction",
+            "Modalities": "Hot / Cold Packs, Traction L/S, TENS, Massage",
+            "Subjective statement of patient": "Difficulty lifting 20 lbs",
+            "Objective": "PT gave exercises to the patient",
+            "Assessment": "Minimal muscle spasms, pain partial over the latissimus during movement and left side protrusion",
+            "Planning": "To continue with treatment"
+        }
+    }
+]
+/////////
+[
+    {
+        "Patient Name": "Julian Delgado",
+        "Doctor Name": "Sumanjit Ahmat",
+        "Collaborator Name": "",
+        "Date of Visit": "11/09/2020",
+        "Medical Facility": "Allied Physical Therapy",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "Sumanjit Ahmat",
+        "Sign-off Date": "11/09/2020",
+        "Summary": {
+            "Treatment continued to": "S/P - lumbar spine",
+            "Procedures": "Therapeutic Exercises, Neuromuscular Reeducation, Functional Activities, Gait Training Balance, Kinetic Activities, Activities of Daily Living, Soft Tissues Manipulation, Individualized Instruction",
+            "Modalities": "Hot / Cold Packs, Traction L/S, TENS",
+            "Subjective statement of patient": "Patient states that he is better 80% and does not have pain",
+            "Objective": "Pain while standing, sitting",
+            "Assessment": "ROM L/S WFL - 10°. Lat/Flex Below knee Bil, MS 3/5 qualy-Gastric+Sol. 3/5 Hamstrings 3650, LBP back, soft tissue mob, balance training and therapeutic exercises (link)",
+            "Planning": "To continue with treatment, balance training",
+            "Comments": "Balance issue"
+        }
+    }
+]
+2020.11.04-2020.11.09 Progress Notes.txtHere are the structured medical records for Julian M Delgado:
+
+[
+    {
+        "Patient Name": "Julian M Delgado",
+        "Doctor Name": "",
+        "Collaborator Name": "",
+        "Date of Visit": "01/27/2021",
+        "Medical Facility": "",
+        "Main Service Provided": "Emergency",
+        "Signed Off By": "Trinh, Kim (M.D.), M.D.",
+        "Sign-off Date": "",
+        "Summary": {
+            "History of illness": "Patient presented to the emergency department with chest pain.",
+            "Key physical exam findings": "Blood pressure 152/98, pulse 80, temperature 97.5 °F, respiratory rate 20, oxygen saturation 97%. Weight 212 lb 8.4 oz.",
+            "Diagnoses/assessment": "Chest pain",
+            "Treatment plan and recommendations": "Chest x-ray was ordered to evaluate the lungs, heart, and bones. Labs including CBC, electrolytes, BUN, creatinine, troponin, and glucose were ordered."
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian M Delgado", 
+        "Doctor Name": "Charoen, Charinda (P.A.), P.A.",
+        "Collaborator Name": "",
+        "Date of Visit": "08/13/2020",
+        "Medical Facility": "",
+        "Main Service Provided": "Urgent Care Office Visit",
+        "Signed Off By": "Charoen, Charinda (P.A.), P.A.",
+        "Sign-off Date": "",
+        "Summary": {
+            "History of illness": "Patient complained of abdominal pain.",
+            "Key physical exam findings": "Weight 212 lb 8.4 oz, height 5' 9". BMI 31.38.",
+            "Diagnoses/assessment": "Abdominal pain",
+            "Current Medication": "Ibuprofen 600 mg oral tablet, take 1 tablet by mouth every 8 hours as needed for pain, take with food. Triamcinolone Acetonide 0.5% topical cream, apply to affected area(s) 2 times a day.",
+            "Treatment plan and recommendations": "Labs were ordered including lipid panel, hemoglobin A1c, ALT, TSH, lipase, creatinine, vitamin D, electrolytes, CBC, H. pylori antibody, and glucose to evaluate abdominal pain and overall health."
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian M Delgado",
+        "Doctor Name": "Lee, Dae-Won (M.D.), M.D.",
+        "Collaborator Name": "",
+        "Date of Visit": "05/17/2019",
+        "Medical Facility": "",
+        "Main Service Provided": "Emergency",  
+        "Signed Off By": "Lee, Dae-Won (M.D.), M.D.",
+        "Sign-off Date": "",
+        "Summary": {
+            "Key physical exam findings": "Platelets 122 (low).",
+            "Diagnoses/assessment": "",
+            "Treatment plan and recommendations": "Labs including BUN, creatinine, urinalysis, electrolytes, CBC, and glucose were ordered. Chest x-ray was ordered."
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Julian M Delgado",
+        "Doctor Name": "Lee, Kyle Hsiao-Hung (D.O.), D.O.",
+        "Collaborator Name": "",
+        "Date of Visit": "04/08/2019",
+        "Medical Facility": "",
+        "Main Service Provided": "Family Practice Office Visit",
+        "Signed Off By": "Lee, Kyle Hsiao-Hung (D.O.), D.O.",
+        "Sign-off Date": "",
+        "Summary": {
+            "Diagnoses/assessment": "Overweight",
+            "Treatment plan and recommendations": "Lipid panel, ALT, creatinine, CBC, and fasting glucose were ordered to evaluate overall health and screen for chronic conditions. Tdap vaccine was given."
+        }
+    }
+]
+2021.05.14 Health Summary.txtHere are the structured visit summaries for Claudia Lorena Barrera Roque:
+
+[
+    {
+        "Patient Name": "Claudia Lorena Barrera Roque",
+        "Doctor Name": "Sloane Yu",
+        "Collaborator Name": "",
+        "Date of Visit": "06/11/2020",
+        "Medical Facility": "Allied Pain & Spine Institute",
+        "Main Service Provided": "Pain Follow Up",
+        "Signed Off By": "Sloane Yu, MD",
+        "Sign-off Date": "06/22/2020",
+        "Summary": {
+            "History of illness": "Patient complaints of acute onset symptoms at neck/upper back, low back, and both feet, described as spasmodic pain and stabbing/sharp pain, since motor vehicle accident on 4/23/2019. She complained of persistent/worsening symptoms since onset. Experienced constant/daily severe pain rated at 7-10/10. Associated with bilateral lower extremity pain, tingling and numbness. Pain exacerbated by prolonged stationary positions, exertional activities, pushing/pulling/lifting, standing, bending backwards and alleviated by pain medications and rest. She was previously taking pain medications. To this point, with conservative care, the patient has not improved and/or been restored to preinjury status.",
+            "Interim History": "First injection having 50% improvement, with associated increased ease with ADLs, status post C7-T1 interlaminar epidural steroid injection under fluoroscopic guidance 04/09/20. However second injection had minimal improvement. Reports last occipital nerve block was only helpful for a few days. Overall frustrated that her pain continues and is not improving.",
+            "Key physical exam findings": "Cervical spine: cervical rigidity/spasm, tender medial scapular muscles, tender paraspinal muscles, limited range of motion to stiffness, bilateral trapezius tenderness, equivocal Spurling's test. Lumbar spine: somewhat flattened lordosis, pain with extension, tenderness over paralumbar extensors and facet joints, limited range of motion due to pain and stiffness, equivocal straight leg raise test.",
+            "Diagnoses/assessment": "1) Driver injured in collision with other motor vehicles in traffic accident, sequela. 2) Low back pain. 3) Cervicalgia. 4) Myalgia, other site. 5) Neuralgia and neuritis, unspecified. 6) Other chronic pain. 7) Sprain of joints and ligaments of other parts of neck, sequela. 8) Strain of muscle, fascia and tendon at neck level, sequela. 9) Unspecified injury of muscle, fascia and tendon of lower back, initial encounter.",
+            "Treatment plan and recommendations": "Patient has now reached a plateau stage in recovery after extensive workup/treatment. Residual symptoms wax and wane. Recommend/continue home exercise regimen. To assist with flareup management, future care provisions may include: medication refills as needed, repeat imaging for worsening symptoms, repeat injection(s) for worsening symptoms, referral for therapy services (6-12 sessions per flareup, for expected 2-3 flareups/year).",
+            "Follow up timeframe": "prn"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Claudia Lorena Barrera Roque",
+        "Doctor Name": "Sloane Yu",
+        "Collaborator Name": "",
+        "Date of Visit": "05/21/2020",
+        "Medical Facility": "Allied Pain & Spine Institute",
+        "Main Service Provided": "Procedure/Injection Followup",
+        "Signed Off By": "Sloane Yu, MD",
+        "Sign-off Date": "05/21/2020",
+        "Summary": {
+            "History of illness": "Patient complaints of acute onset symptoms at neck/upper back, low back, and both feet, described as spasmodic pain and stabbing/sharp pain, since motor vehicle accident on 4/23/2019. She complained of persistent/worsening symptoms since onset. Experienced constant/daily severe pain rated at 7-10/10. Associated with bilateral lower extremity pain, tingling and numbness. Pain exacerbated by prolonged stationary positions, exertional activities, pushing/pulling/lifting, standing, bending backwards and alleviated by pain medications and rest. She was previously taking pain medications. To this point, with conservative care, the patient has not improved and/or been restored to preinjury status.",
+            "Interim History": "First injection having 50% improvement, with associated increased ease with ADLs, status post C7-T1 interlaminar epidural steroid injection under fluoroscopic guidance 04/09/20. However second injection had minimal improvement. Reports left side of neck still hurts moderate-severe.",  
+            "Key physical exam findings": "Cervical spine: cervical rigidity/spasm, tender medial scapular muscles, tender paraspinal muscles, limited range of motion to stiffness especially with left lateral rotation, bilateral trapezius tenderness, equivocal Spurling's test. Lumbar spine: somewhat flattened lordosis, pain with extension, tenderness over paralumbar extensors and facet joints, limited range of motion due to pain and stiffness, equivocal straight leg raise test.",
+            "Diagnoses/assessment": "1) Driver injured in collision with other motor vehicles in traffic accident, sequela. 2) Low back pain. 3) Cervicalgia. 4) Myalgia, other site. 5) Neuralgia and neuritis, unspecified. 6) Other chronic pain. 7) Sprain of joints and ligaments of other parts of neck, sequela. 8) Strain of muscle, fascia and tendon at neck level, sequela. 9) Unspecified injury of muscle, fascia and tendon of lower back, initial encounter.",
+            "Treatment plan and recommendations": "Proceed with left occipital nerve block. Discussed risks of steroid injections especially with COVID pandemic and possible decreased immunity. Patient understands risks and wishes to proceed. Future consideration may include trigger point, joint, or spinal injection based on progress with conservative care and imaging review. May employ judicious use of medication management as needed for symptom control. Adjunct therapies such as acupuncture or electric stimulation might also be of benefit. May also consider surgical referral.",
+            "Procedures": "After discussing benefits and possible side effects, informed consent was obtained to proceed with bilateral occipital nerve blocks injection(s) targeting the left greater and less occipital nerves. Using aseptic technique, a total of 1cc of 0.5% bupivacine mixed with 10 mg of Kenalog was injected into the lesser and greater occipital nerve on each side. Aspiration revealed no blood or other fluid. The patient tolerated the procedure well without adverse effects. The patient experienced substantial pain relief immediately after procedure. Patient was instructed on post procedure care, including extreme caution while driving for 8 hours and to be aware of potential dizziness."
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Claudia Lorena Barrera Roque",
+        "Doctor Name": "Sloane Yu",
+        "Collaborator Name": "",
+        "Date of Visit": "04/23/2020",
+        "Medical Facility": "Allied Pain & Spine Institute",
+        "Main Service Provided": "Procedure/Injection Followup",
+        "Signed Off By": "Sloane Yu, MD",
+        "Sign-off Date": "05/21/2020",
+        "Summary": {
+            "History of illness": "Patient complaints of acute onset symptoms at neck/upper back, low back, and both feet, described as spasmodic pain and stabbing/sharp pain, since motor vehicle accident on 4/23/2019. She complained of persistent/worsening symptoms since onset. Experienced constant/daily severe pain rated at 7-10/10. Associated with bilateral lower extremity pain, tingling and numbness. Pain exacerbated by prolonged stationary positions, exertional activities, pushing/pulling/lifting, standing, bending backwards and alleviated by pain medications and rest. She was previously taking pain medications. To this point, with conservative care, the patient has not improved and/or been restored to preinjury status.",
+            "Interim History": "Reports 50% improvement, with associated increased ease with ADLs, status post C7-T1 interlaminar epidural steroid injection under fluoroscopic guidance 04/09/20. Lower part of neck much better. Higher part of neck continues to have 5 out of 10 pain.",
+            "Key physical exam findings": "Cervical spine: cervical rigidity/spasm, tender medial scapular muscles, tender paraspinal muscles, limited range of motion to stiffness especially with left lateral rotation, bilateral trapezius tenderness, equivocal Spurling's test. Lumbar spine: somewhat flattened lordosis, pain with extension, tenderness over paralumbar extensors and facet joints, limited range of motion due to pain and stiffness, equivocal straight leg raise test.",
+            "Diagnoses/assessment": "1) Driver injured in collision with other motor vehicles in traffic accident, sequela. 2) Low back pain. 3) Cervicalgia. 4) Myalgia, other site. 5) Neuralgia and neuritis, unspecified. 6) Other chronic pain. 7) Sprain of joints and ligaments of other parts of neck, sequela. 8) Strain of muscle, fascia and tendon at neck level, sequela. 9) Unspecified injury of muscle, fascia and tendon of lower back, initial encounter.",
+            "Treatment plan and recommendations": "Recommend b/l occipital nerve block in future. However patient is concerned about steroid injection because of COVID. Future consideration may include trigger point, joint, or spinal injection based on progress with conservative care and imaging review. May employ judicious use of medication management as needed for symptom control. Adjunct therapies such as acupuncture or electric stimulation might also be of benefit. May also consider surgical referral."
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Claudia Lorena Barrera Roque",
+        "Doctor Name": "James Petros, MD",
+        "Collaborator Name": "Catherine Orjuela FNP-C",
+        "Date of Visit": "02/21/2020",
+        "Medical Facility": "Allied Pain & Spine Institute",
+        "Main Service Provided": "Pain Follow Up",
+        "Signed Off By": "Kiara Calayag",
+        "Sign-off Date": "05/08/2020",
+        "Summary": {
+            "History of illness": "Patient complaints of acute onset symptoms at neck/upper back, low back, and both feet, described as spasmodic pain and stabbing/sharp pain, since motor vehicle accident on 4/23/2019. She complained of persistent/worsening symptoms since onset. Experienced constant/daily severe pain rated at 7-10/10. Associated with bilateral lower extremity pain, tingling and numbness. Pain exacerbated by prolonged stationary positions, exertional activities, pushing/pulling/lifting, standing, bending backwards and alleviated by pain medications and rest. She was previously taking pain medications. To this point, with conservative care, the patient has not improved and/or been restored to preinjury status.",
+            "Interim History": "Pain today is 7-8/10 on VAS. Pain is still in head and back of neck. Pain seems worse because it is constant. Denies new numbness, tingling, weakness, fevers, chills, or loss of bowel/bladder function. Symptoms at involved body part(s) wax and wane. Has finished chiropractic, PT, and acupuncture but is still symptomatic.",
+            "Key physical exam findings": "Cervical spine: cervical rigidity/spasm, tender medial scapular muscles, tender paraspinal muscles, limited range of motion to stiffness especially with left lateral rotation, bilateral trapezius tenderness, equivocal Spurling's test. Lumbar spine: somewhat flattened lordosis, pain with extension, tenderness over paralumbar extensors and facet joints, limited range of motion due to pain and stiffness, equivocal straight leg raise test.",
+            "Diagnoses/assessment": "1) Driver injured in collision with other motor vehicles in traffic accident, sequela. 2) Low back pain. 3) Cervicalgia. 4) Myalgia, other site. 5) Neuralgia and neuritis, unspecified. 6) Other chronic pain. 7) Sprain of joints and ligaments of other parts of neck, sequela. 8) Strain of muscle, fascia and tendon at neck level, sequela. 9) Unspecified injury of muscle, fascia and tendon of lower back, initial encounter.",
+            "Treatment plan and recommendations": "Based on history, physical exam, diagnostic data, and clinical trajectory, propose to proceed with a C7-T1 interlaminar epidural steroid injection under fluoroscopic guidance, with cephalad spread of injectant. Risks and benefits discussed with patient. Patient understood risks including bleeding, infection, nerve injury, increased pain, side effects of injectants, and in rare cases paralysis, stroke, and death. Informed consent obtained. Future consideration may include trigger point, joint, or spinal injection based on progress with conservative care and imaging review. May employ judicious use of medication management as needed for symptom control. Adjunct therapies such as acupuncture or electric stimulation might also be of benefit. May also consider surgical referral."
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Claudia Lorena Barrera Roque",
+        "Doctor Name": "James Petros, MD",
+        "Collaborator Name": "Catherine Orjuela FNP-C",
+        "Date of Visit": "12/04/2019", 
+        "Medical Facility": "Allied Pain & Spine Institute",
+        "Main Service Provided": "Pain Follow Up",
+        "Signed Off By": "Kiara Calayag",
+        "Sign-off Date": "05/08/2020",
+        "Summary": {
+            "History of illness": "Patient complaints of acute onset symptoms at neck/upper back, low back, and both feet, described as spasmodic pain and stabbing/sharp pain, since motor vehicle accident on 4/23/2019. She complained of persistent/worsening symptoms since onset. Experienced constant/daily severe pain rated at 7-10/10. Associated with bilateral lower extremity pain, tingling and numbness. Pain exacerbated by prolonged stationary positions, exertional activities, pushing/pulling/lifting, standing, bending backwards and alleviated by pain medications and rest. She was previously taking pain medications. To this point, with conservative care, the patient has not improved and/or been restored to preinjury status.",
+            "Interim History": "Pain today is 8/10 in neck. Sound especially bothers her. Pain is mostly at base of head and neck. Denies new numbness, tingling, weakness, fevers, chills, or loss of bowel/bladder function. Symptoms at involved body part(s) wax and wane.",
+            "Key physical exam findings": "Cervical spine: cervical rigidity/spasm, tender medial scapular muscles, tender paraspinal muscles, limited range of motion to stiffness especially with left lateral rotation, bilateral trapezius tenderness, equivocal Spurling's test. Lumbar spine: somewhat flattened lordosis, pain with extension, tenderness over paralumbar extensors and facet joints, limited range of motion due to pain and stiffness, equivocal straight leg raise test.",
+            "Diagnoses/assessment": "1) Driver injured in collision with other motor vehicles in traffic accident, sequela. 2) Low back pain. 3) Cervicalgia. 4) Myalgia, other site. 5) Neuralgia and neuritis, unspecified. 6) Other chronic pain. 7) Sprain of joints and ligaments of other parts of neck, sequela. 8) Strain of muscle, fascia and tendon at neck level, sequela. 9) Unspecified injury of muscle, fascia and tendon of lower back, initial encounter.",
+            "Treatment plan and recommendations": "Recommend continue physiotherapy services for increasing functional range of motion and reduction of muscular spasms, along with therapeutic treatment modalities for pain reduction. For left sided neck pain and stiffness radiating to the left arm, PT and accupuncture has been helpful for conservatively managing symptoms. However, they remain persistent. Will refer for additional accupuncture and physical therapy treatment. If still persistent or residual symptoms, will request surgical consultation. Future consideration may include trigger point, joint, or spinal injection based on progress with conservative care and imaging review. May employ judicious use of medication management as needed for symptom control. Adjunct therapies such as acupuncture or electric stimulation might also be of benefit. Follow up after above for review and re-assessment."
+        }
+    }
+]
+//////////
+Allied Pain & Spine Medical 05.15.19 - 06.11.20.txtHere are the structured visit summaries for Claudia Lorena Barrera Roque:
+
+[
+    {
+        "Patient Name": "Claudia Lorena Barrera Roque",
+        "Doctor Name": "Maryam Kalami, L.Ac", 
+        "Collaborator Name": "",
+        "Date of Visit": "01/22/2020",
+        "Medical Facility": "Allied Pain & Spine Institute",
+        "Main Service Provided": "Acupuncture Therapy",
+        "Signed Off By": "Linda Garza",
+        "Sign-off Date": "05/11/2020",
+        "Summary": {
+            "History of illness": "50 year old female presents with c/o acute-onset symptoms at neck/upper back, at low back, and both feet, spasmodic pain, stabbing/sharp pain, since date of motor vehicle accident. Patient was restrained driver of vehicle that was impacted from side. No loss of consciousness reported. Emergency medical care was provided. Patient started to experience subacute/gradual escalation of pain following accident, with symptoms that have persisted. c/o persistent/worsening symptoms since onset, constant/daily pain, severe pain intensity (7-10/10), associated/accompanying RLE and LLE pain/tingling/numbness.",
+            "Key physical exam findings": "Cervical rigidity/spasm, tender medial scapular muscles, tender paraspinal muscles. Range of motion of neck limited to stiffness. Trapezius tenderness present bilaterally. Spurling's equivocal bilaterally. Lumbar lordosis somewhat flattened. Lumbar pain with extension, tenderness over paralumbar extensors and facet joints. Lumbar range of motion limited due to pain and stiffness. Straight leg raising test equivocal bilaterally.",
+            "Diagnoses/assessment": "1) Driver injured in collision with other motor vehicles in traffic accident, sequela. 2) Low back pain. 3) Cervicalgia. 4) Myalgia, other site. 5) Neuralgia and neuritis, unspecified. 6) Other chronic pain. 7) Sprain of joints and ligaments of other parts of neck, sequela. 8) Strain of muscle, fascia and tendon at neck level, sequela. 9) Unspecified injury of muscle, fascia and tendon of lower back, initial encounter.",
+            "Treatment plan and recommendations": "Prescribed Cyclobenzaprine HCL 10 mg, Meloxicam 15 mg. Recommended initiate/continue chiropractic/physiotherapy services for increasing functional range of motion and reduction of muscular spasms, along with therapeutic treatment modalities for pain reduction. MRI imaging may be helpful to provide further objective evidence of underlying pathology and guide additional treatment options. Future consideration may include trigger point, joint or spinal injection based on progress with conservative care and imaging review. May employ judicious use of medication management as needed for symptom control. Adjunct therapies such as acupuncture or electric stimulation might also be of benefit. Patient was given mental health screeners - scored moderately severe mood and anxiety symptoms on PHQ-9 and GAD-7.",
+            "Follow up timeframe": "in 2 - 3 days"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Claudia Lorena Barrera Roque",
+        "Doctor Name": "Maryam Kalami, L.Ac",
+        "Collaborator Name": "",
+        "Date of Visit": "01/15/2020",
+        "Medical Facility": "Allied Pain & Spine Institute",
+        "Main Service Provided": "Acupuncture Therapy",
+        "Signed Off By": "Linda Garza",
+        "Sign-off Date": "05/11/2020",
+        "Summary": {
+            "History of illness": "50 year old female presents with c/o acute-onset symptoms at neck/upper back, at low back, and both feet, spasmodic pain, stabbing/sharp pain, since date of motor vehicle accident. Patient was restrained driver of vehicle that was impacted from side. No loss of consciousness reported. Emergency medical care was provided. Patient started to experience subacute/gradual escalation of pain following accident, with symptoms that have persisted. c/o persistent/worsening symptoms since onset, constant/daily pain, severe pain intensity (7-10/10), associated/accompanying RLE and LLE pain/tingling/numbness.",
+            "Key physical exam findings": "Cervical rigidity/spasm, tender medial scapular muscles, tender paraspinal muscles. Range of motion of neck limited to stiffness. Trapezius tenderness present bilaterally. Spurling's equivocal bilaterally. Lumbar lordosis somewhat flattened. Lumbar pain with extension, tenderness over paralumbar extensors and facet joints. Lumbar range of motion limited due to pain and stiffness. Straight leg raising test equivocal bilaterally.",
+            "Diagnoses/assessment": "1) Low back pain. 2) Driver injured in collision with other motor vehicles in traffic accident, sequela. 3) Cervicalgia. 4) Myalgia, other site. 5) Neuralgia and neuritis, unspecified. 6) Other chronic pain. 7) Sprain of joints and ligaments of other parts of neck, sequela. 8) Strain of muscle, fascia and tendon at neck level, sequela. 9) Unspecified injury of muscle, fascia and tendon of lower back, initial encounter.",
+            "Treatment plan and recommendations": "Continue to progress as tolerated. Patient demonstrates some progress, but also demonstrates inconsistent attendance. Patient would like to continue PT. Recommend additional PT to continue making progress.",
+            "Follow up timeframe": "in 2 - 3 days"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Claudia Lorena Barrera Roque",
+        "Doctor Name": "Maryam Kalami, L.Ac",
+        "Collaborator Name": "",
+        "Date of Visit": "01/10/2020",
+        "Medical Facility": "Allied Pain & Spine Institute",
+        "Main Service Provided": "Acupuncture Therapy",
+        "Signed Off By": "Linda Garza",
+        "Sign-off Date": "05/11/2020",
+        "Summary": {
+            "History of illness": "50 year old female presents with c/o acute-onset symptoms at neck/upper back, at low back, and both feet, spasmodic pain, stabbing/sharp pain, since date of motor vehicle accident. Patient was restrained driver of vehicle that was impacted from side. No loss of consciousness reported. Emergency medical care was provided. Patient started to experience subacute/gradual escalation of pain following accident, with symptoms that have persisted. c/o persistent/worsening symptoms since onset, constant/daily pain, severe pain intensity (7-10/10), associated/accompanying RLE and LLE pain/tingling/numbness.",
+            "Key physical exam findings": "Cervical rigidity/spasm, tender medial scapular muscles, tender paraspinal muscles. Range of motion of neck limited to stiffness. Trapezius tenderness present bilaterally. Spurling's equivocal bilaterally. Lumbar lordosis somewhat flattened. Lumbar pain with extension, tenderness over paralumbar extensors and facet joints. Lumbar range of motion limited due to pain and stiffness. Straight leg raising test equivocal bilaterally.",
+            "Diagnoses/assessment": "1) Low back pain. 2) Driver injured in collision with other motor vehicles in traffic accident, sequela. 3) Cervicalgia. 4) Myalgia, other site. 5) Neuralgia and neuritis, unspecified. 6) Other chronic pain. 7) Sprain of joints and ligaments of other parts of neck, sequela. 8) Strain of muscle, fascia and tendon at neck level, sequela. 9) Unspecified injury of muscle, fascia and tendon of lower back, initial encounter.",
+            "Treatment plan and recommendations": "Continue to progress as tolerated. Patient demonstrates some progress, but also demonstrates inconsistent attendance. Patient would like to continue PT. Recommend additional PT to continue making progress.",
+            "Follow up timeframe": "in 2 - 3 days"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Claudia Lorena Barrera Roque",
+        "Doctor Name": "Maryam Kalami, L.Ac",
+        "Collaborator Name": "",
+        "Date of Visit": "01/08/2020",
+        "Medical Facility": "Allied Pain & Spine Institute",
+        "Main Service Provided": "Acupuncture Therapy",
+        "Signed Off By": "Linda Garza",
+        "Sign-off Date": "05/11/2020",
+        "Summary": {
+            "History of illness": "50 year old female presents with c/o acute-onset symptoms at neck/upper back, at low back, and both feet, spasmodic pain, stabbing/sharp pain, since date of motor vehicle accident. Patient was restrained driver of vehicle that was impacted from side. No loss of consciousness reported. Emergency medical care was provided. Patient started to experience subacute/gradual escalation of pain following accident, with symptoms that have persisted. c/o persistent/worsening symptoms since onset, constant/daily pain, severe pain intensity (7-10/10), associated/accompanying RLE and LLE pain/tingling/numbness.",
+            "Diagnoses/assessment": "1) Low back pain. 2) Driver injured in collision with other motor vehicles in traffic accident, sequela. 3) Cervicalgia. 4) Myalgia, other site. 5) Neuralgia and neuritis, unspecified. 6) Other chronic pain. 7) Sprain of joints and ligaments of other parts of neck, sequela. 8) Strain of muscle, fascia and tendon at neck level, sequela. 9) Unspecified injury of muscle, fascia and tendon of lower back, initial encounter.",
+            "Treatment plan and recommendations": "Continue to progress as tolerated. Patient demonstrates some progress, but also demonstrates inconsistent attendance. Patient would like to continue PT. Recommend additional PT to continue making progress.",
+            "Follow up timeframe": "in 2 - 3 days"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Claudia Lorena Barrera Roque",
+        "Doctor Name": "Maryam Kalami, L.Ac",
+        "Collaborator Name": "",
+        "Date of Visit": "12/20/2019",
+        "Medical Facility": "Allied Pain & Spine Institute",
+        "Main Service Provided": "Acupuncture Therapy",
+        "Signed Off By": "Linda Garza",
+        "Sign-off Date": "05/11/2020",
+        "Summary": {
+            "History of illness": "50 year old female presents with c/o acute-onset symptoms at neck/upper back, at low back, and both feet, spasmodic pain, stabbing/sharp pain, since date of motor vehicle accident. Patient was restrained driver of vehicle that was impacted from side. No loss of consciousness reported. Emergency medical care was provided. Patient started to experience subacute/gradual escalation of pain following accident, with symptoms that have persisted. c/o persistent/worsening symptoms since onset, constant/daily pain, severe pain intensity (7-10/10), associated/accompanying RLE and LLE pain/tingling/numbness.",
+            "Key physical exam findings": "Cervical rigidity/spasm, tender medial scapular muscles, tender paraspinal muscles. Range of motion of neck limited to stiffness. Trapezius tenderness present bilaterally. Spurling's equivocal bilaterally. Lumbar lordosis somewhat flattened. Lumbar pain with extension, tenderness over paralumbar extensors and facet joints. Lumbar range of motion limited due to pain and stiffness. Straight leg raising test equivocal bilaterally.",
+            "Diagnoses/assessment": "1) Low back pain. 2) Driver injured in collision with other motor vehicles in traffic accident, sequela. 3) Cervicalgia. 4) Myalgia, other site. 5) Neuralgia and neuritis, unspecified. 6) Other chronic pain. 7) Sprain of joints and ligaments of other parts of neck, sequela. 8) Strain of muscle, fascia and tendon at neck level, sequela. 9) Unspecified injury of muscle, fascia and tendon of lower back, initial encounter.",
+            "Treatment plan and recommendations": "Continue to progress as tolerated. Patient demonstrates some progress, but also demonstrates inconsistent attendance. Patient would like to continue PT. Recommend additional PT to continue making progress.",
+            "Follow up timeframe": "in 2 - 3 days"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Claudia Lorena Barrera Roque",
+        "Doctor Name": "Maryam Kalami, L.Ac",
+        "Collaborator Name": "",
+        "Date of Visit": "12/18/2019",
+        "Medical Facility": "Allied Pain & Spine Institute",
+        "Main Service Provided": "Acupuncture Therapy",
+        "Signed Off By": "Linda Garza",
+        "Sign-off Date": "05/11/2020",
+        "Summary": {
+            "History of illness": "50 year old female presents with c/o acute-onset symptoms at neck/upper back, at low back, and both feet, spasmodic pain, stabbing/sharp pain, since date of motor vehicle accident. Patient was restrained driver of vehicle that was impacted from side. No loss of consciousness reported. Emergency medical care was provided. Patient started to experience subacute/gradual escalation of pain following accident, with symptoms that have persisted. c/o persistent/worsening symptoms since onset, constant/daily pain, severe pain intensity (7-10/10), associated/accompanying RLE and LLE pain/tingling/numbness.",
+            "Key physical exam findings": "Cervical rigidity/spasm, tender medial scapular muscles, tender paraspinal muscles. Range of motion of neck limited to stiffness. Trapezius tenderness present bilaterally. Spurling's equivocal bilaterally. Lumbar lordosis somewhat flattened. Lumbar pain with extension, tenderness over paralumbar extensors and facet joints. Lumbar range of motion limited due to pain and stiffness. Straight leg raising test equivocal bilaterally.",
+            "Diagnoses/assessment": "1) Low back pain. 2) Driver injured in collision with other motor vehicles in traffic accident, sequela. 3) Cervicalgia. 4) Myalgia, other site. 5) Neuralgia and neuritis, unspecified. 6) Other chronic pain. 7) Sprain of joints and ligaments of other parts of neck, sequela. 8) Strain of muscle, fascia and tendon at neck level, sequela. 9) Unspecified injury of muscle, fascia and tendon of lower back, initial encounter.",
+            "Treatment plan and recommendations": "Continue to progress as tolerated. Patient demonstrates some progress, but also demonstrates inconsistent attendance. Patient would like to continue PT. Recommend additional PT to continue making progress.",
+            "Follow up timeframe": "in 2 - 3 days"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Claudia Lorena Barrera Roque",
+        "Doctor Name": "Maryam Kalami, L.Ac",
+        "Collaborator Name": "",
+        "Date of Visit": "12/04/2019",
+        "Medical Facility": "Allied Pain & Spine Institute",
+        "Main Service Provided": "Acupuncture Therapy",
+        "Signed Off By": "Linda Garza",
+        "Sign-off Date": "05/11/2020",
+        "Summary": {
+            "Date of injury and mechanism and cure content": "4/23/2019. Acute-onset symptoms at neck/upper back, low back, and both feet, spasmodic pain, stabbing/sharp pain, since date of motor vehicle accident. Patient was restrained driver of vehicle that was impacted from side. No loss of consciousness. Emergency medical care provided. Patient started to experience subacute/gradual escalation of pain following accident, with symptoms that have persisted.",
+            "History of illness": "c/o persistent/worsening symptoms since onset, constant/daily pain, severe pain intensity (7-10/10), associated/accompanying RLE and LLE pain/tingling/numbness. Exacerbating factors: prolonged stationary positions, exertional activities, pushing/pulling/lifting, standing, bending backwards. Alleviating factors: pain medications, rest. Previous
+Allied Pain & Spine Medical 09.06.19 - 01.22.20.txtHere are the structured visit summaries for Claudia Lorena Barrera Roque:
+
+[
+    {
+        "Patient Name": "Claudia Lorena Barrera Roque",
+        "Doctor Name": "Jeremy Balint",
+        "Collaborator Name": "",
+        "Date of Visit": "02/06/2020",
+        "Medical Facility": "Allied Pain & Spine Institute (San Jose - Blossom Hill)",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "Jeremy Balint",
+        "Sign-off Date": "07/22/2020",
+        "Summary": {
+            "History of illness": "Patient reports that she started feeling neck and lower back pain again this past week. Reports that she has been performing exercises daily.",
+            "Key physical exam findings": "GAD -7: 12. PHQ -9: 17.",
+            "Diagnoses/assessment": "Low back pain, Driver injured in collision with other motor vehicles in traffic accident sequela, Cervicalgia, Myalgia other site, Neuralgia and neuritis unspecified, Other chronic pain, Sprain of joints and ligaments of other parts of neck sequela, Strain of muscle fascia and tendon at neck level sequela, Unspecified injury of muscle fascia and tendon of lower back initial encounter",
+            "Treatment plan and recommendations": "Patient demonstrates some progress, but also demonstrates inconsistent attendence. Patient would like to continue PT. Recommend addtional PT to continue making progress.",
+            "Follow up timeframe": ""
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Claudia Lorena Barrera Roque",
+        "Doctor Name": "Jeremy Balint",
+        "Collaborator Name": "",
+        "Date of Visit": "01/21/2020",
+        "Medical Facility": "Allied Pain & Spine Institute (San Jose - Blossom Hill)",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "Jeremy Balint",
+        "Sign-off Date": "07/22/2020",
+        "Summary": {
+            "History of illness": "Patient reports soreness and pain in lower and upper back.",
+            "Key physical exam findings": "",
+            "Diagnoses/assessment": "Low back pain, Driver injured in collision with other motor vehicles in traffic accident sequela, Cervicalgia, Myalgia other site, Neuralgia and neuritis unspecified, Other chronic pain, Sprain of joints and ligaments of other parts of neck sequela, Strain of muscle fascia and tendon at neck level sequela, Unspecified injury of muscle fascia and tendon of lower back initial encounter",
+            "Treatment plan and recommendations": "Patient was able to tolerate therapy well today. Patient reports decreased pain after manual therapy. Patient can benefit from continued therapy to improve strength for functional mobility.",
+            "Follow up timeframe": "Continue to progress as tolerated"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Claudia Lorena Barrera Roque",
+        "Doctor Name": "Jeremy Balint",
+        "Collaborator Name": "",
+        "Date of Visit": "01/10/2020",
+        "Medical Facility": "Allied Pain & Spine Institute (San Jose - Blossom Hill)",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "Jeremy Balint",
+        "Sign-off Date": "07/22/2020",
+        "Summary": {
+            "History of illness": "Patient reports that she has not been performing exercises due to recovering from the flu. Patient reports some pain in back but at lower intensity levels.",
+            "Key physical exam findings": "",
+            "Diagnoses/assessment": "Low back pain, Driver injured in collision with other motor vehicles in traffic accident sequela, Cervicalgia, Myalgia other site, Neuralgia and neuritis unspecified, Other chronic pain, Sprain of joints and ligaments of other parts of neck sequela, Strain of muscle fascia and tendon at neck level sequela, Unspecified injury of muscle fascia and tendon of lower back initial encounter",
+            "Treatment plan and recommendations": "Patient was able to tolerate therapy well. Patient reports decreased pain after performing exercises. Patient can benefit from continued therapy to improve strength for functional mobility.",
+            "Follow up timeframe": "Continue to progress as tolerated"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Claudia Lorena Barrera Roque",
+        "Doctor Name": "Jeremy Balint",
+        "Collaborator Name": "",
+        "Date of Visit": "12/20/2019",
+        "Medical Facility": "Allied Pain & Spine Institute (San Jose - Blossom Hill)",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "Jeremy Balint",
+        "Sign-off Date": "07/22/2020",
+        "Summary": {
+            "History of illness": "Patient reports feeling achiness. Reports feeling as though she may be getting sick.",
+            "Key physical exam findings": "",
+            "Diagnoses/assessment": "Low back pain, Driver injured in collision with other motor vehicles in traffic accident sequela, Cervicalgia, Myalgia other site, Neuralgia and neuritis unspecified, Other chronic pain, Sprain of joints and ligaments of other parts of neck sequela, Strain of muscle fascia and tendon at neck level sequela, Unspecified injury of muscle fascia and tendon of lower back initial encounter",
+            "Treatment plan and recommendations": "Patient was able to tolerate therapy. Patient performed exercises with minimal pain. Patient can benefit from continued therapy to improve strength for functional mobility.",
+            "Follow up timeframe": "Continue to progress as tolerated"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Claudia Lorena Barrera Roque",
+        "Doctor Name": "Jeremy Balint",
+        "Collaborator Name": "",
+        "Date of Visit": "12/17/2019",
+        "Medical Facility": "Allied Pain & Spine Institute (San Jose - Blossom Hill)",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "Jeremy Balint",
+        "Sign-off Date": "07/22/2020",
+        "Summary": {
+            "History of illness": "Patient reports that her symptoms are relatively unchange or digressed. Patient reports that she has not been keeping up with her HEP, but knows that the HEP is helpful.",
+            "Key physical exam findings": "",
+            "Diagnoses/assessment": "Low back pain, Driver injured in collision with other motor vehicles in traffic accident sequela, Cervicalgia, Myalgia other site, Neuralgia and neuritis unspecified, Other chronic pain, Sprain of joints and ligaments of other parts of neck sequela, Strain of muscle fascia and tendon at neck level sequela, Unspecified injury of muscle fascia and tendon of lower back initial encounter",
+            "Treatment plan and recommendations": "Patient was encouraged to perform HEP daily as it is somewhat helpful. Patient would benefit from continued physical therapy to address above deficits.",
+            "Follow up timeframe": "Continue to progress as tolerated"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Claudia Lorena Barrera Roque",
+        "Doctor Name": "Jeremy Balint",
+        "Collaborator Name": "",
+        "Date of Visit": "10/31/2019",
+        "Medical Facility": "Allied Pain & Spine Institute (San Jose - Blossom Hill)",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "Jeremy Balint",
+        "Sign-off Date": "07/22/2020",
+        "Summary": {
+            "History of illness": "Patient reports still feeling 7/10 neck and lower back pain. Patient reports performing exercises when she can. She is currently working and has difficulty reaching up and carrying heavy objects. Patient reports 40% improvement and would like to continued therapy.",
+            "Key physical exam findings": "",
+            "Diagnoses/assessment": "Cervicalgia, Driver injured in collision with other motor vehicles in traffic accident sequela, Low back pain, Myalgia other site, Neuralgia and neuritis unspecified, Other chronic pain, Sprain of joints and ligaments of other parts of neck sequela, Strain of muscle fascia and tendon at neck level sequela, Unspecified injury of muscle fascia and tendon of lower back initial encounter",
+            "Treatment plan and recommendations": "Patient demonstrates some progress, but also demonstrates inconsistent attendence. Patient would like to continue PT. Recommend addtional PT to continue making progress.",
+            "Follow up timeframe": "Continue to progress as tolerated"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Claudia Lorena Barrera Roque",
+        "Doctor Name": "Jeremy Balint",
+        "Collaborator Name": "",
+        "Date of Visit": "10/15/2019",
+        "Medical Facility": "Allied Pain & Spine Institute (San Jose - Blossom Hill)",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "Jeremy Balint",
+        "Sign-off Date": "07/22/2020",
+        "Summary": {
+            "History of illness": "Patient reports pain in R upper back area.",
+            "Key physical exam findings": "",
+            "Diagnoses/assessment": "Cervicalgia, Driver injured in collision with other motor vehicles in traffic accident sequela, Low back pain, Myalgia other site, Neuralgia and neuritis unspecified, Other chronic pain, Sprain of joints and ligaments of other parts of neck sequela, Strain of muscle fascia and tendon at neck level sequela, Unspecified injury of muscle fascia and tendon of lower back initial encounter",
+            "Treatment plan and recommendations": "Patient was able to tolerate therapy well. Patient reports decreased pain after exercise and self TrP therapy using lacross ball. Patient can benefit from continued therapy to improve functional mobility.",
+            "Follow up timeframe": "Continue to progress as tolerated"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Claudia Lorena Barrera Roque",
+        "Doctor Name": "Jeremy Balint",
+        "Collaborator Name": "",
+        "Date of Visit": "10/10/2019",
+        "Medical Facility": "Allied Pain & Spine Institute (San Jose - Blossom Hill)",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "Jeremy Balint",
+        "Sign-off Date": "07/22/2020",
+        "Summary": {
+            "History of illness": "Patient reports pain in neck and lower back.",
+            "Key physical exam findings": "",
+            "Diagnoses/assessment": "Cervicalgia, Driver injured in collision with other motor vehicles in traffic accident sequela, Low back pain, Myalgia other site, Neuralgia and neuritis unspecified, Other chronic pain, Sprain of joints and ligaments of other parts of neck sequela, Strain of muscle fascia and tendon at neck level sequela, Unspecified injury of muscle fascia and tendon of lower back initial encounter",
+            "Treatment plan and recommendations": "Patient was able to tolerate therapy well. Patient reports decreased pain after manual therapy. Patient was educated on use of lacross ball to manage trigger point at home. Patient can benefit from continued therapy to improve tolerance for functional mobility.",
+            "Follow up timeframe": "Continue to progress as tolerated"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Claudia Lorena Barrera Roque",
+        "Doctor Name": "Jeremy Balint",
+        "Collaborator Name": "",
+        "Date of Visit": "10/04/2019",
+        "Medical Facility": "Allied Pain & Spine Institute (San Jose - Blossom Hill)",
+        "Main Service Provided": "Physical Therapy",
+        "Signed Off By": "Jeremy Balint",
+        "Sign-off Date": "07/22/2020",
+        "Summary": {
+            "History of illness": "Patient reports 9/10 pain radiating from neck down to LBP. Patient still agreeable to therapy.",
+            "Key physical exam findings": "",
+            "Diagnoses/assessment": "Cervicalgia, Driver injured in collision with other motor vehicles in traffic accident sequela, Low back pain, Myalgia other site, Neuralgia and neuritis unspecified, Other chronic pain, Sprain of joints and ligaments of other parts of neck sequela, Strain of muscle fascia and tendon at neck level sequela, Unspecified injury of muscle fascia and tendon of lower back initial encounter",
+            "Treatment plan and recommendations": "Patient was shown and demonstrated HEP. Patitent was able to perform exercises with mild pain. Patient reports decreased pain after therapy. Patient can benefit from continued therapy to improved strength for functional mobility.",
+            "Follow up timeframe": "Continue plan of care as tolerated"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Claudia Lorena Barrera Roque",
+        "Doctor Name": "Jeremy Balint",
+        "Collaborator Name": "",
+        "Date of Visit": "10/01/2019",
+        "Medical Facility": "Allied Pain & Spine Institute (San Jose - Blossom Hill)",
+        "Main Service Provided": "Physical Therapy Evaluation",
+        "Signed Off By": "Melissa Alvarez",
+        "Sign-off Date": "05/11/2020",
+        "Summary": {
+            "Date of injury and mechanism and cure content": "DOI (PI): 4/23/2019. MVA. Patient was restrained DRIVER of vehicle that was impacted from SIDE. Air bags DID NOT deploy. No loss of consciousness reported. Emergency medical care WAS provided. Patient went to ER - took Xrays of neck and right knee - reports negative xrays.",
+            "History of illness": "Patient started to experience subacute/gradual escalation of pain following accident, with symptoms that have persisted. c/o persistent/worsening symptoms since onset. c/o constant/daily pain. c/o SEVERE pain intensity (7-10/10). c/o associated/accompaning RLE pain/tingling/numbness. c/o associated/accompaning LLE pain/tingling/numbness.",
+            "Key physical exam findings": "CERVICAL SPINE: cervical rigidity/spasm, tender medial scapular muscles, tender paraspinal mucles. RANGE OF MOTION OF NECK: limited to stiffness, especially with lateral rotation to the left. TRAPEZIUS TENDERNESS: present bilaterally. SPURLING'S: equivocal bilaterally. Cervical AROM: flexion = 50 deg (stretch), extension = 50 deg (painful) Side Bending: R = 30 deg, L = 30 deg (painful bilaterally) Rotation: R = 40 deg, L = 40 deg. Compression: increased pain. Flexion Test: decreased strength. UT stretch: pos on L side. ULTT: pos on LUE. 
+                                            LUMBAR SPINE: somewhat flattened lordosis. PALPATION: pain with extension, tenderness over paralumbar extensors, tenderness over facet joints. RANGE OF MOTION: limited due to pain, limited due to stiffness, pain on extremes of motion. STRAIGHT LEG RAISING TEST: equivocal bilaterally. Lumbar AROM: Flexion = 40 deg (increased pain), Extension = 20 deg Side Bending: R = 20 deg, L = 20 deg (painful) Rotation: R = 18 deg, (painful), L = 18 deg (painful). Prone on Elbows: decreased pain. Palpation: tender with CPA of L4-5,S1.",
+            "Diagnoses/assessment": "Driver injured in collision with other motor vehicles in traffic accident sequela, Low back pain, Cervicalgia, Myalgia other site, Neuralgia and neuritis unspecified, Other chronic pain, Sprain of joints and ligaments of other parts of neck sequela, Strain of muscle fascia and tendon at neck level sequela, Unspecified injury of muscle fascia and tendon of lower back initial encounter",
+            "Current Medication": "Meloxicam 15 MG Tablet 1 tablet Orally Once a day PRN",
+            "Treatment plan and recommendations": "Patient (Spanish Speaking) is a 49 yo female presenting to physical therapy with c/o L sided neck and LBP secondary to MVA, DJD of the cerivcal and lumbar spine. Patient demonstrates lumbar extension preference and demonstrates postural deficits. Patient would benefit from trial of skilled physical therapy to address above deficits. Based on the findings above, PT prognosis is fair.
+Allied Pain & Spine Medical 10.01.19 - 02.06.20.txtUnfortunately I could not extract any relevant patient visit information from the provided image. The image appears to be an informational poster or guide on how to treat and prevent back pain through various exercises and postures. It does not contain any specific details about a patient, doctor, medical facility, diagnosis, treatment plan, or other elements that would constitute a structured medical record for a patient visit. Please provide a document that includes information about a specific patient's medical visit if you would like me to extract and organize the relevant details.
+Mckenzie exercises.txtHere is a structured summary of the key details from the provided medical records for each visit, separated by "//////////":
+
+[
+    {
+        "Patient Name": "JULIAN MATTHEW DELGADO",
+        "Doctor Name": "DYLAN M HENDY, DO",
+        "Collaborator Name": "",
+        "Date of Visit": "01/05/2018",
+        "Medical Facility": "Montclair Hospital Medical Center",
+        "Main Service Provided": "Emergency Department Visit", 
+        "Signed Off By": "DYLAN M HENDY, DO",
+        "Sign-off Date": "01/05/2018",
+        "Summary": {
+            "Date of injury and mechanism and cure content": "On 1/5/18, patient fell while trying to tie his shoe while leaving work. He tried to break his fall by grabbing something and turned while falling, hurting his back.",
+            "History of illness": "Patient presented with aching sharp low back pain radiating to his left leg after the fall at work. He described the pain as stabbing and pinching sensation to left back and leg. He also reported numbness to left lateral upper leg. Pain rated 6/10, exacerbated with sitting and certain movements. No saddle anesthesia or loss of consciousness. Denied fever, chills, weakness.",
+            "Key physical exam findings": "Alert in no acute distress. Lumbar spine with no obvious deformity. Moderate lower lumbar midline tenderness on palpation. Tenderness to left paraspinal muscle. No stepoff. Extremities with no deformity, clubbing, cyanosis or edema. Alert and oriented. Face symmetric. Speech normal. Moves all extremities equally. Motor and sensory intact. 5/5 motor strength bilaterally. No saddle anesthesia.",
+            "Diagnoses/assessment": "1. Sciatica Left Lower Extremity 2. Lumbar Back Strain", 
+            "Treatment plan and recommendations": "Prescribed Motrin and Robaxin. Advised to follow-up with PCP in 2-3 days for reevaluation and return to ED for any new or worsening symptoms. Counseled on risks of hypertension and urged outpatient monitoring.",
+            "Follow up timeframe": "Follow up with PCP in 2-3 days"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "JULIAN DELGADO",
+        "Doctor Name": "Paul Quaschnick, D.C.",
+        "Collaborator Name": "",
+        "Date of Visit": "01/08/2018",
+        "Medical Facility": "CEDARPOINTE MEDICAL GROUP",
+        "Main Service Provided": "Initial Chiropractic Evaluation",
+        "Signed Off By": "Paul Quaschnick, D.C.",
+        "Sign-off Date": "03/23/2018", 
+        "Summary": {
+            "Date of injury and mechanism and cure content": "Patient was involved in a slip and fall incident on 1/5/18. He states he was in Century City mall trying to tie one shoe and lost balance and fell down.",
+            "History of illness": "Patient presented to the hospital after the fall where he was initially evaluated, x-rays were performed, and medication was prescribed. He then presented to this clinic for further evaluation and treatment of his incident-related injuries.",
+            "Key physical exam findings": "Lumbar spine ROM limited with pain. Moderately severe tenderness and myospasm of lumbar paraspinal and paravertebral muscles. Kemp's test positive bilaterally. Left foot with moderate tenderness over plantar compartment with weightbearing.",
+            "Reviewed Radiology Report": "MRI of lumbar spine on 1/29/18 showed disc protrusions at L4-L5 and L5-S1 with nerve root impingement and foraminal stenosis.",
+            "Diagnoses/assessment": "1. Lumbar spine segmental dysfunction 2. Lumbar spine sprain 3. Lumbago 4. Pain in left foot",
+            "Treatment plan and recommendations": "Recommended a course of conservative chiropractic manipulation/adjustment and soft tissue physiotherapy treatments. Advised to avoid strenuous activities.",
+            "Follow up timeframe": "Return for re-evaluation of progress in four weeks"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "JULIAN DELGADO",
+        "Doctor Name": "Ramin R. Shamtob, M.D.",
+        "Collaborator Name": "",
+        "Date of Visit": "01/08/2018",
+        "Medical Facility": "ORTHOPEDIC PAIN MANAGEMENT",
+        "Main Service Provided": "Orthopedic and Pain Management Evaluation",
+        "Signed Off By": "Ramin R. Shamtob, M.D.",
+        "Sign-off Date": "01/08/2018",
+        "Summary": {
+            "Date of injury and mechanism and cure content": "Patient sustained injuries from a slip and fall accident on 1/5/18. He stated he slipped while tying his boot waiting for an elevator. He tried to break his fall by grabbing something and turned while falling, hurting his back.",
+            "History of illness": "Immediately after the accident, patient had lower back pain. He went to Urgent Care on his own and received lumbar spine x-rays. He was prescribed Robaxin and ibuprofen 600mg. He lost one day of work as an electrician due to the accident.",  
+            "Key physical exam findings": "Lumbar spine with tenderness, spasms and limited painful range of motion. Positive straight leg raise on left. Numbness and tingling in left leg.",
+            "Mental/Functional": "Difficulties with activities of daily living including self-care, cleaning, washing dishes, cooking/preparing meals due to pain.",
+            "Diagnoses/assessment": "1. Lumbago 2. Lumbar myalgia 3. Lumbar myospasm 4. Lumbar neuritis/radiculitis",
+            "Treatment plan and recommendations": "1. Chiropractic physical therapy 2. Ibuprofen 600mg twice daily for 4 weeks 3. Soma 350mg at bedtime for 4 weeks 4. Return for follow-up after treatment",
+            "Follow up timeframe": "Return for follow-up evaluation after treatment with medication and chiropractic therapy"
+        }
+    }
+]
+Prior Records.txtHere are the key details extracted from the provided medical records, organized into structured lists for each patient visit:
+
+[
+    {
+        "Patient Name": "Maria E Zapiengonzalez",
+        "Doctor Name": "Allison M Chadwick PA-C",
+        "Collaborator Name": "Tooraj Gravori",
+        "Date of Visit": "06/24/2021",
+        "Medical Facility": "ProMed Spine",
+        "Main Service Provided": "Initial Comprehensive Neurosurgical Consultation",
+        "Signed Off By": "Tooraj Gravori MD, FACS",
+        "Sign-off Date": "06/24/2021",
+        "Summary": {
+            "History of illness": "Patient complaints of acute onset symptoms at neck/upper back, at low back, and both feet, described as spasmodic pain, stabbing/sharp pain, since date of motor vehicle accident. Experienced constant/daily pain rated at 7-10/10. Associated with bilateral lower extremity pain, tingling and numbness. Pain exacerbated by prolonged stationary positions and exertional activities, alleviated by pain medications and rest. Previously taking pain medications. Not improved with conservative care.",
+            "Key physical exam findings": "GAD-7: 12. PHQ-9: 17. Cervical spine: Cervical rigidity/spasm, tender medial scapular and paraspinal muscles. Limited ROM due to stiffness. Bilateral trapezius tenderness. Equivocal Spurling's test bilaterally. Thoracic spine: Tenderness to palpation. Lumbar spine: Somewhat flattened lordosis. Tenderness over paralumbar extensors and facet joints. Limited ROM due to pain and stiffness. Equivocal straight leg raise test bilaterally.",
+            "Diagnoses/assessment": "1) Driver injured in collision with other motor vehicles in traffic accident, sequela. 2) Low back pain. 3) Cervicalgia. 4) Myalgia, other site. 5) Neuralgia and neuritis, unspecified. 6) Other chronic pain. 7) Sprain of joints and ligaments of other parts of neck, sequela. 8) Strain of muscle, fascia and tendon at neck level, sequela. 9) Unspecified injury of muscle, fascia and tendon of lower back, initial encounter.",
+            "Treatment plan and recommendations": "Prescribed Cyclobenzaprine HCL 10 mg, Meloxicam 15 mg. Recommended initiate/continue chiropractic/physiotherapy services, therapeutic treatment modalities for pain reduction. MRI imaging may be helpful depending on progress. Future consideration of trigger point, joint or spinal injection based on progress and imaging. Judicious use of medication management as needed. Adjunct therapies such as acupuncture or electric stimulation may be of benefit. Started on Mobic and Flexeril. Recommended chiropractic therapy 2 times per week for 3 weeks. PHQ-9 score 17/27 indicative of moderately severe mood symptoms. GAD7 score 21/21 indicative of moderately severe anxiety symptoms.",
+            "Follow up timeframe": "in 4 weeks"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Maria E Zapiengonzalez",
+        "Doctor Name": "Allison M Chadwick PA-C",
+        "Collaborator Name": "Christopher Rafie",
+        "Date of Visit": "05/11/2018",
+        "Medical Facility": "Regional Medical Center of San Jose",
+        "Main Service Provided": "Emergency Department Visit",
+        "Signed Off By": "Allison M Chadwick PA-C",
+        "Sign-off Date": "05/11/2018",
+        "Summary": {
+            "History of illness": "30-year-old female G3P2 with history of ectopic pregnancy presents with vaginal discharge, itchiness and discomfort for 3 days. Associated dysuria. Felt a "hole to left labia" earlier today. History of yeast infection in the past and this feels similar. Last menses April 23rd. Sexually active in a monogamous relationship, uses condoms regularly. Denies history of STDs or PID. Denies recent trauma or fall, fevers, chills, nausea, vomiting, abdominal pain. Denies diabetes.",
+            "Key physical exam findings": "Vital signs within normal limits. Well appearing, no acute distress. Abdomen soft and nontender. No CVAT. GU exam: no external lesions, rashes or labial swelling. Moderate white discharge in vaginal vault. Os closed, no CMT or adnexal tenderness. Wet mount, no trich, yeast or clue cells.",
+            "Diagnoses/assessment": "Vaginitis",
+            "Current Medication": "None listed",
+            "Treatment plan and recommendations": "Discharged home with Diflucan for vaginal yeast infection. Wet mount and GC Chlamydia cultures obtained. Follow up with PCP. Return precautions given.",
+            "Urine Tests": "UA: Cloudy, trace protein, small leukocyte esterase, 3-5 WBC, few epithelial cells and bacteria. Culture indicated.",
+            "Microbiology Tests": "Vaginal wet mount: Light polymorphonuclear cells seen. No trichomonads, yeast, pseudohyphae or clue cells seen. GC/Chlamydia DNA probes pending.",
+            "Follow up timeframe": "As needed with PCP"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Maria Zapien Gonzalez",
+        "Doctor Name": "Brian J Wolter PA-C",
+        "Collaborator Name": "Matthew Tripp",
+        "Date of Visit": "02/24/2018",
+        "Medical Facility": "Regional Medical Center of San Jose",
+        "Main Service Provided": "Emergency Department Visit",
+        "Signed Off By": "Brian J Wolter PA-C",
+        "Sign-off Date": "02/24/2018",
+        "Summary": {
+            "History of illness": "33-year-old female G3P2 with history of ectopic pregnancy presents with left lower quadrant pain with mild radiation to suprapubic region over 2 days, nausea and vomiting x5 today, and prolonged menstruation over 15 days. On p.o. pill form birth control. Menstruations on regular schedule but longer in duration. Pain began and remained in left lower quadrant. Significant past medical history of ectopic pregnancy with surgical removal. Denies dysuria, diarrhea, chest pain, shortness of breath, rashes or lesions, traumatic onset, or masses.",
+            "Key physical exam findings": "Vital signs stable. Abdomen: Soft and tense palpation left lower quadrant with minimal radiation to suprapubic. Negative rebound, rigidity, masses. Bowel sounds normal active.",
+            "Diagnoses/assessment": "Abdominal pain, Vaginal bleeding, Nabothian cyst",
+            "Current Medication": "Hydrocodone/acetaminophen (Norco) 5/325 mg 1 tab q6h prn pain, Ibuprofen (Motrin) 600 mg po q6h prn pain",
+            "Treatment plan and recommendations": "Leukocytosis 12.9 likely secondary to vomiting. Labs otherwise unremarkable. U/S of appendix and pelvic organs noted incidental findings but no acute processes. Pain free on re-eval and tolerating PO. Appropriate for outpatient follow up. Discharged home with abdominal pain, vaginal bleeding, and nabothian cyst. Prescribed Motrin, Tylenol #3 and Colace.",
+            "Imaging": "KUB: Nonspecific bowel gas pattern prevalence and descending colon. Pelvic US: 9 mm heterogeneous structure in cervix, query complex cyst versus other etiology. Bilateral ovarian blood flow noted.",
+            "Labs": "WBC 12.9, otherwise unremarkable. UA: Cloudy, large blood, 5-10 WBCs, many bacteria. Urine culture: 10-50,000/mL mixed flora, probable contamination.",
+            "Follow up timeframe": "As needed outpatient"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Maria Zapien Gonzalez",
+        "Doctor Name": "Stephen R Beckwith MD",
+        "Collaborator Name": "",
+        "Date of Visit": "01/01/2018",
+        "Medical Facility": "Regional Medical Center of San Jose",
+        "Main Service Provided": "Emergency Department Visit",
+        "Signed Off By": "Stephen R Beckwith MD",
+        "Sign-off Date": "01/04/2018",
+        "Summary": {
+            "History of illness": "30 year old female with no PMH, presenting with 3 weeks of frontal headache, worse today. Sometimes radiates down to her eyes. Associated nausea, vomiting, SOB, and a syncopal episode where she saw white spots prior to passing out. States she was down for only a few seconds, and her coworkers caught her as she fell. Denies numbness, weakness, or nasal discharge. Took ibuprofen at home with little relief.",
+            "Key physical exam findings": "Vital signs: BP 164/106, HR 98. Otherwise unremarkable. Alert and oriented, well appearing. Normal neurological exam.",
+            "Diagnoses/assessment": "1) Migraine, 2) Syncope",
+            "Current Medication": "Hydrocodone/acetaminophen (Norco) 5/325 mg 1 tab q6h prn pain, Ibuprofen (Motrin) 600 mg po q6h prn pain",
+            "Treatment plan and recommendations": "EKG unremarkable. Headache now pretty much fully resolved with Reglan and Benadryl in triage. Suspect migraine, syncope not cardiac or neurogenic in origin. Prescribed ibuprofen, diphenhydramine, and Zofran for the next few days. Put off work and encouraged to rest and take lots of fluids. Discussed return precautions. Discussed option of head CT but patient much better and would like to avoid radiation at this point. Can reconsider and return if chooses to.",
+            "Imaging": "EKG: Normal sinus rhythm, 81 bpm, no STEMI",
+            "Follow up timeframe": "As needed"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Maria Zapien Gonzalez",
+        "Doctor Name": "Charles G Telesco PA-C",
+        "Collaborator Name": "Joel Miller",
+        "Date of Visit": "12/31/2017",
+        "Medical Facility": "Regional Medical Center of San Jose",
+        "Main Service Provided": "Emergency Department Visit",
+        "Signed Off By": "Charles G Telesco PA-C",
+        "Sign-off Date": "12/31/2017",
+        "Summary": {
+            "History of illness": "30 year old female with no significant PMH presents with intermittent RLQ abdominal pain that began three days ago. Associated vomiting. Denies fever, diarrhea, or dysuria.",
+            "Key physical exam findings": "Vital signs stable. RLQ abdominal tenderness on exam, no rebound or guarding.",
+            "Diagnoses/assessment": "Abdominal pain",
+            "Current Medication": "Hydrocodone/acetaminophen (Norco) 5/325 mg 1 tab q6h prn pain, Ibuprofen (Motrin) 600 mg po q6h prn pain",
+            "Treatment plan and recommendations": "Given Zofran and Norco in the ED. Labs, UA, US pelvis, and US appendix ordered. Labs show mild leukocytosis likely secondary to vomiting, otherwise unremarkable. U/S of appendix and pelvic organs noted incidental findings but no acute processes. Pain free on re-eval and tolerating PO. Appropriate for outpatient follow up.",
+            "Imaging": "US Appendix: Appendix not visualized. No RLQ free fluid. Gallstone incidentally noted. US Pelvis: 2.7 cm left ovarian cyst appears grossly simple. Apparent high resistance spectral waveform for left ovary may be technical or torsion/detorsion phenomenon. Clinical correlation recommended. Unremarkable right ovary and uterus.",
+            "Labs": "WBC 13.0, otherwise unremarkable. UA: Cloudy, 3-5 WBC, few bacteria. Urine culture: 10-50,000/mL mixed flora, probable contamination.",
+            "Follow up timeframe": "As needed outpatient"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Maria Zapien Gonzalez",
+        "Doctor Name": "Ha Vu MD",
+        "Collaborator Name": "",
+        "Date of Visit": "11/23/2017",
+        "Medical Facility": "Regional Medical Center of San Jose",
+        "Main Service Provided": "Emergency Department Visit",
+        "Signed Off By": "Ha Vu MD",
+        "Sign-off Date": "11/26/2017",
+        "Summary": {
+            "History of illness": "29 year old female presenting with left neck pain and stiffness since last night, exacerbated by movement. Was also in a low-speed MVC 3 days ago struck while turning left. Came to ER on Monday with right neck and low back pain, treated with Motrin and Norco. At that time did not have neck stiffness and pain as today. Denies numbness/tingling or bowel/bladder incontinence.",
+            "Key physical exam findings": "Vital signs: BP 166/86, HR 98, Temp 98.0 F. Bilateral soft tissue neck and trapezius tenderness. No vertebral tenderness. Right soft tissue lumbar tenderness. No midline tenderness. Nonfocal neurological exam.",
+            "Diagnoses/assessment": "1) Muscle spasm, 2) Biliary colic, 3) Cervical strain, 4) Lumbar strain",
+            "Current Medication": "Hydrocodone/acetaminophen (Norco) 5/325 mg 1 tab q6h prn pain, Ibuprofen (Motrin) 600 mg po q6h prn pain",
+            "Treatment plan and recommendations": "Neck/back X-rays unremarkable. Suspect cervical strain. No evidence of cardiac, cardiopulmonary, vascular, or infectious etiology. Normal neurological exam. Developed RUQ abdominal pain, US shows gallstones with sonographic Murphy's sign but no clinical acute chole - no fever, leukocytosis, normal LFTs/lipase. After pain meds, back/neck/abdominal pain all improved. For neck/back - likely spasm from MVA, no cord compression or cauda equina. For RUQ pain - likely biliary colic, less likely acute chole, no obstruction, pancreatitis or acute abdomen. Advised diet changes, follow up with PMD for surgery referral. Return precautions given.",
+            "Imaging": "C-spine XR: No acute osseous injury. L-spine XR: No acute osseous injury. RUQ US: Distended gallbladder with mobile gallstone at neck, positive sonographic Murphy's sign. Consider HIDA scan to exclude cystic duct obstruction.",
+            "Labs": "WBC 11.7, otherwise unremarkable",
+            "Follow up timeframe": "With PMD for surgery referral"
+        }
+    }
+]
+//////////
+[
+    {
+        "Patient Name": "Maria Zapien Gonzalez",
+        "Doctor Name": "John R Beuerle MD",
+        "Collaborator Name": "",
+        "Date of Visit": "11/20/2017",
+        "Medical Facility": "Regional Medical Center of San Jose",
+        "Main Service Provided": "Emergency Department Visit",
+        "Signed Off By": "John R Beuerle MD",
+        "Sign-off Date": "11/20/2017",
+        "Summary": {
+            "History of illness": "29 year old female presents with right hip and right knee pain after being in an MVC last night. She was the restrained driver, hit on her passenger side. Did not hit her head. Woke up today feeling worse. Denies numbness or tingling.",
+            "Key physical exam findings": "Vital signs: BP 173/77, HR 94,
+Regional Medical Center Medical 11.20.17 & 11.23.17.txt
